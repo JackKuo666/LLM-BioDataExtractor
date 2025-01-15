@@ -124,16 +124,15 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 2. Complete the `pdf_2_md` step successfully before running `LLM_extract_data`.
 3. Complete the `LLM_extract_data` step successfully before running `evaluate_extracted_data`.
 
-## Contact
 
-For questions or suggestions, contact [[menghao.guo.319@gmail.com](mailto:menghao.guo.319@gmail.com)] or submit a GitHub issue.
 
+## Citation
+Please cite this project if you find it useful in your research:
+```bibtex
+@misc{LLM-BioDataExtractor,
+preprintation={arXiv:xxxx},
+}
+```
 ---
 
 Thank you for using `LLM-BioDataExtractor`! We hope it helps you efficiently process and analyze a wide range of biochemical data from scientific literature.
-
-## Article Title
-
-**Leveraging Large Language Models for Automated Extraction of Biochemical Data from Scientific Literature**
-
-This project aims to automate the extraction of various biochemical data, including enzyme kinetics parameters, enzyme activity, and ribozyme data, from scientific papers using advanced large language models, streamlining the process for researchers and enhancing data accuracy.
