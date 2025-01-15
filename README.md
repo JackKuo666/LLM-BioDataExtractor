@@ -1,16 +1,18 @@
-# LLM-AEK-Pipeline
+# LLM-BioDataExtractor
 
 ## Introduction
 
-`LLM-AEK-Pipeline` is an automated pipeline for extracting biochemical data from PDF files and evaluating the extraction results. This pipeline consists of three main steps:
+`LLM-BioDataExtractor` is an automated pipeline that leverages large language models (LLMs) to extract various biochemical data, including enzyme kinetics parameters (e.g., Km, Kcat), enzyme activity, and ribozyme data, from scientific literature. The pipeline consists of three main steps:
 
 1. **PDF to Markdown (pdf_2_md)**: Converts PDF files to Markdown format.
-2. **LLM Data Extraction (LLM_extract_data)**: Extracts key data from Markdown files using large language models (LLMs).
-3. **Evaluate Extracted Data (evaluate_extracted_data)**: Compares the extracted data with ground truth to assess the extraction accuracy.
+2. **LLM Data Extraction (LLM_extract_data)**: Extracts key biochemical data from Markdown files using LLMs.
+3. **Evaluate Extracted Data (evaluate_extracted_data)**: Compares the extracted data with ground truth to assess accuracy.
 
 ## Installation
 
 Ensure the required dependencies are installed:
+
+
 
 ```bash
 pip install -r requirements.txt
@@ -29,7 +31,9 @@ pdf_2_md()
 
 ### 2. LLM Data Extraction
 
-Extract key data from Markdown files and save it in the response folder.
+Extract key biochemical data from Markdown files and save it in the response folder.
+
+
 
 ```python
 from extract_pipeline import LLM_extract_data
@@ -59,7 +63,7 @@ evaluate_extracted_data()
 │
 ├── prompt              # Prompt files
 │   ├── p_3_2_0806.txt  # Prompt for data extraction
-│   └── p_2_0826.txt    # Prompt for evaluation
+│   └── p_2_0826.txt    # Prompt for merge data
 │
 ├── s1_pdf_2_md         # PDF to Markdown conversion pipeline
 │   ├── ocr_mathpix.py  # High-performance PDF to Markdown conversion
@@ -114,7 +118,6 @@ The script uses the `logging` module for recording logs. By default, the log lev
 import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 ```
-
 ## Notes
 
 1. Ensure all paths and filenames are correct.
@@ -127,4 +130,10 @@ For questions or suggestions, contact [[menghao.guo.319@gmail.com](mailto:mengha
 
 ---
 
-Thank you for using `LLM-AEK-Pipeline`! We hope it helps you efficiently process and analyze biochemical data.
+Thank you for using `LLM-BioDataExtractor`! We hope it helps you efficiently process and analyze a wide range of biochemical data from scientific literature.
+
+## Article Title
+
+**Leveraging Large Language Models for Automated Extraction of Biochemical Data from Scientific Literature**
+
+This project aims to automate the extraction of various biochemical data, including enzyme kinetics parameters, enzyme activity, and ribozyme data, from scientific papers using advanced large language models, streamlining the process for researchers and enhancing data accuracy.
