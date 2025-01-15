@@ -1,0 +1,612 @@
+202
+JOURNAL OF BIOSCIENCE AND BIOENGINEERING
+Vol. 97, No. 3, 202–206. 2004
+Properties of an Alcohol Dehydrogenase from
+the Hyperthermophilic Archaeon Aeropyrum pernix K1
+HIDEHIKO HIRAKAWA,1 NORIHO KAMIYA,2 YUTAKA KAWARABAYASHI,3
+AND TERUYUKI NAGAMUNE1*
+Department of Chemistry and Biotechnology, School of Engineering, The University of Tokyo, 7-3-1 Hongo,
+Bunkyo-ku, Tokyo 113-8656, Japan,1 Department of Applied Chemistry, Graduate School of Engineering,
+Kyushu University, Fukuoka 812-8581, Japan,2 and Research Center for Glycoscience,
+National Institute of Advanced Industrial Science and Technology, AIST Central 6,
+1-1-1 Higashi, Tsukuba, Ibaraki 305-8566, Japan3
+Received 20 November 2003/Accepted 26 December 2003
+A NAD+-dependent medium-chain alcohol dehydrogenase from the hyperthermophilic archaeon
+Aeropyrum pernix K1 was expressed in Escherichia coli and purified. The recombinant enzyme
+was a homotetramer of molecular mass 1.6102 kDa. The optimum pH for the oxidative reaction
+was around 10.5 and that for the reductive reaction was around 8.0. The enzyme had a broad sub-
+strate specificity including aliphatic and aromatic alcohols, aliphatic and aromatic ketones, and
+benzylaldehyde. This enzyme produced (S)-alcohols from the corresponding ketones. The enzyme
+was thermophilic and the catalytic activity increased up to 95C. It maintained 24% of the origi-
+nal catalytic activity after incubation for 30 min at 98C, indicating that this enzyme is highly
+thermostable.
+[Key words: alcohol dehydrogenase, Aeropyrum pernix, Archaea, medium-chain, enantioselectivity, thermophilic, 
+thermostable]
+Alcohol dehydrogenases (ADHs) are widely distributed
+in nature and have been found in many animals, plants and
+microorganisms (1). They play important roles in a broad
+range of physiological process (1, 2). ADHs are generally
+subdivided into three groups (3), the medium-chain zinc-
+dependent ADHs (approximately 350 amino acids per sub-
+unit) such as horse liver ADH (4) and ADHs (isozymes I–
+III) from Saccharomyces cerevisiae (5), the short-chain zinc-
+independent ADHs (approximately 250 amino acids per
+subunit) such as ADH from Lactobacillus brevis (6), and the
+long-chain iron-activated ADHs (approximately 385 amino
+acids per subunit) such as ADH IV from S. cerevisiae (7).
+ADHs catalyze the reversible oxidation of alcohols to the
+corresponding aldehydes or ketones. ADHs catalyzing the
+stereospecific reduction of carbonyl groups have been dis-
+covered in different organisms. For example, ADHs from
+Rhodococcus erythropolis (8) and Thermoanaerobium brockii
+(9) produce (S)-alcohols, and ADH from Lactobacillus kefir
+(10) produces (R)-alcohols. Optically active alcohols are
+important building blocks in the synthesis of a broad variety
+of natural compounds and drugs. However, many ADHs are
+generally unstable and the low stability often hampers their
+industrial application.
+Recently, ADHs from thermophilic organisms have been
+isolated. These ADHs are thermostable and have broad sub-
+strate specificity (9, 11–16). In this report, we describe the
+purification and characterization of a zinc-containing me-
+dium-chain alcohol dehydrogenase from the hyperthermo-
+philic archaeon Aeropyrum pernix K1 (17), of which struc-
+ture was recently solved (18, 19). We report that this en-
+zyme is highly thermostable, and has a broad substrate spec-
+ificity and high enantioselectivity.
+MATERIALS AND METHODS
+Construction of an expression vector for ADH from A. pernix
+K1
+A shot-gun clone (A2GR7175) containing an alcohol dehy-
+drogenase coding sequence (ORF: APE2239) was used as a tem-
+plate for PCR amplification. An N-terminal primer, 5-CCGGGGT
+ACCATATGAGAATAGAGCAAGACTTCTCGC-3 and a C-ter-
+minal primer, 5-CCCCCAAGCTTGGATCCGTTACGGTATCAG
+GACTGCCC-3, containing NdeI and BamHI sites (underlined in
+the sequences), were used. The fragment generated was gel-puri-
+fied. This purified gene was digested with NdeI and BamHI and
+ligated into the pET-11a vector (Novagen, San Diego, CA, USA)
+digested with the same restriction enzymes. The plasmid, pET-
+11aapADH, was cloned and verified by DNA sequencing after
+transformation of Escherichia coli XL10-Gold with the ligated
+product.
+Expression and purification of apADH
+A single colony of
+E. coli BL21(DE3) transformed with pET-11aapADH was inocu-
+lated into 5 ml of LB media containing 50 g/ml of ampicillin at
+37C. At OD6600.8, 50% (v/v) glycerol solution was added to the
+culture (20% glycerol, final concentration) and this glycerol mix-
+ture was stored at 80C until use. Ten l of the glycerol solution
+was added to 10 ml of LB media containing 50 g/ml of ampicillin
+and incubated at 37C. At OD6600.8, the culture was added to 1 l
+of TB media containing 100 g/ml of ampicillin and the cells were
+grown overnight (15 h) at 37C.
+* Corresponding author. e-mail: nagamune@bio.t.u-tokyo.ac.jp
+phone: +81-(0)3-5841-7328 fax: +81-(0)3-5841-8657
+PROPERTIES OF A. PERNIX ADH
+VOL. 97, 2004
+203
+The cells were harvested by centrifugation. The cell pellet was
+resuspended in 50 ml of 10 mM potassium phosphate buffer (pH
+7.2) containing 0.1 mM AEBSF (Sigma, St. Louis, MO, USA), and
+disrupted by sonication at 4C. The lysate was centrifuged and
+the supernatant was incubated first in the presence of Benzonase
+(Merck, Darmstadt, Germany; 40 units/ml of solution) and 6 mM
+MgCl2 for 3 h at 37C, and then in the presence of protamine sul-
+fate from salmon (Sigma; 1 mg/ml of solution) at 4C for 30 min.
+After the nucleic acid fragments were removed by centrifugation,
+the supernatant was heated at 60C for 45 min. In addition, after
+centrifugation, the supernatant was heated at 75C for 45 min, and
+the precipitated host proteins were removed by centrifugation. The
+supernatant was dialyzed against 10 mM potassium phosphate
+buffer (pH 7.2).
+Saturated ammonium sulfate solution was added to the dialyzed
+enzyme to a final concentration of 50% saturation. The suspension
+was stirred for 30 min and then centrifuged. Solid ammonium sul-
+fate was added to the resulting supernatant to a final concentration
+of 80% saturation. This mixture was stirred again and centrifuged
+as above. The resulting pellet was dissolved in a minimal volume
+of 10 mM potassium phosphate buffer (pH 7.2), and dialyzed against
+the same buffer.
+The dialyzed enzyme was applied to a CIM QA disk column
+(123 mm; BIA Separations, Ljubljana, Slovenia) which had pre-
+viously been equilibrated with the dialysis buffer. The column was
+eluted with 60 column volumes of a linear gradient of 0–0.3 M
+KCl in 10 mM potassium phosphate buffer (pH 7.2). The fractions
+that showed ADH activity were pooled and concentrated by ultra-
+filtration with a PLHK membrane (Millipore, Billerica, MA, USA).
+The concentrated enzyme was applied to a Superdex 200 HR
+10/30 column (130 cm; Amersham Biosciences, Piscataway, NJ,
+USA), and then eluted with 1.25 column volumes of 50 mM po-
+tassium phosphate buffer (pH 7.2) containing 150 mM potassium
+chloride. The fractions containing apADH were concentrated by
+ultrafiltration.
+Enzyme assay
+The catalytic activity of apADH was deter-
+mined at 60C by monitoring the increase or decrease in absor-
+bance at 340 nm (3406.22 mM–1 cm–1), which is the characteristic
+absorption wavelength of NADH. The oxidation reaction mixture
+(2 ml) contained 0.18 mol NAD+, alcohol, and 0.2 nmol purified
+apADH in 100 mM potassium phosphate buffer (pH 8.0). The re-
+duction reaction mixture (2 ml) contained 0.16 mol NADH, alde-
+hyde or ketones, and 0.2 nmol purified apADH in 100 mM potas-
+sium phosphate buffer (pH 8.0). Except when measuring the ther-
+mal activity, the reaction was initiated by the addition of an appro-
+priate amount of coenzyme.
+pH profiles of initial reaction rates
+The initial rates of the
+alcohol dehydrogenase reaction in both the oxidative and reductive
+directions were measured as a function of pH, from 3.8 to 11.5, us-
+ing potassium citrate, potassium phosphate, glycylglycine–KOH,
+and glycine–HCl buffers. For the alcohol oxidation reaction assay,
+a 2.0 ml solution of an appropriate buffer (100 mM) with 100 nM
+apADH, 90 M NAD+ and 40 mM 2-pentanol was used. For the
+ketone reduction reaction assay, a 2.0 ml solution of an appropriate
+buffer (100 mM) with 100 nM apADH, 80 M NADH and 40 mM
+2-pentanone was used.
+Thermal activity and stability
+The thermal activity of
+apADH was assayed at temperatures between 30C and 95C. The
+reaction mixture was composed of 90 M NAD+, 3.8 mM 2-pen-
+tanol and 100 nM apADH in 2.0 ml of 100 mM potassium phos-
+phate (pH 8.0). The reaction was initiated by addition of 20 l of
+the mixture of apADH and NAD+.
+The stability was studied by incubating apADH (4 M) in 50
+mM potassium phosphate buffer pH 7.2 containing 150 mM KCl at
+various temperatures. After incubation for 30 min, each sample
+was placed on ice and centrifuged at 4C. The residual activity was
+assayed by the oxidation of 3.8 mM 2-pentanol under the reaction
+conditions described in the enzyme assay section.
+Kinetic constant measurements
+All the reactions followed
+Michaelis–Menten type kinetics under the appropriate experimen-
+tal conditions. The Michaelis constant (Km) and catalytic turnover
+(kcat) were determined for each substrate summarized in Tables 1
+and 2 with 90 M NAD+ or 80 M NADH depending on the type
+of reaction studied. The kcat and Km values for NAD+ and NADH
+were determined using 3.8 mM 2-pentanol and 10 mM 2-penta-
+none as the substrate, respectively. Other conditions were same as
+in the enzyme assay section.
+Determination of enantiomeric excess
+The reduction of ali-
+phatic ketones was conducted with cofactor regeneration at 60C
+for 24 h. The reaction mixture contained 60 nmol NADH, 30 mol
+ketone, 300 mol cyclohexanol (for NADH regeneration) and 0.6
+nmol purified apADH in 3 ml of 100 mM potassium phosphate
+buffer (pH 8.0). Chiral gas chromatography equipped with a flame
+ionization detector was used to determine the enantiomeric excess.
+All the samples were extracted with CH2Cl2 and were derivatized
+with trifluoroacetic anhydride. An aliquot (approximately 1 l) was
+applied on a CHIRALDEX G-TA column (25 m0.25 mm I.D.;
+Advanced Separation Technologies, Whippany, NJ, USA).
+RESULTS
+Enzyme expression and purification
+The recombi-
+nant apADH (ADH from A. pernix K1) was successfully
+expressed in E. coli without induction. The purified apADH
+gave a single band on SDS–PAGE. The molecular mass of
+apADH calculated from the gene sequence was 39.57 kDa
+and that obtained in the SDS–PAGE analysis was 40 kDa.
+TABLE 1.
+Kinetic constants for oxidation of alcohols
+Substrate
+kcat
+(s–1)
+Km
+(mM)
+kcat/Km
+(s–1 mM–1)
+Ethanol
+0.230.03
+13.73.3
+0.017
+1-Propanol
+0.260.01
+1.030.06
+0.25
+1-Butanol
+0.410.02
+0.5960.097
+0.69
+1-Pentanol
+0.450.02
+0.3960.057
+1.1
+1-Hexanol 
+0.370.03
+0.1470.037
+2.5
+2-Propanol
+0.240.02
+2.440.40
+0.097
+2-Butanol
+0.480.01
+1.050.09
+0.46
+2-Pentanol
+0.600.02
+0.7520.093
+0.79
+Cyclohexanol
+0.520.03
+0.7030.109
+0.73
+Benzylalcohol
+1.020.01
+5.430.16
+0.189
+4-Methoxybenzylalcohol
+0.600.03
+1.130.20
+0.53
+NAD+
+0.400.02
+0.00100.0002
+3.8102
+TABLE 2.
+Kinetic constants for reduction of
+benzylaldehyde and ketones
+Substrate
+kcat
+(s–1)
+Km
+(mM)
+kcat/Km
+(s–1 mM–1)
+2-Pentanone
+0.770.05
+5.150.75
+0.15
+2-Hexanone
+1.080.04
+5.010.33
+0.22
+2-Heptanone
+0.730.03
+1.160.13
+0.62
+2-Octanone
+0.740.01
+0.2860.018
+2.6
+2-Nonanone
+0.710.02
+0.2150.016
+3.3
+2-Decanone
+0.400.02
+0.1470.017
+2.7
+t-Butyl acetoacetate
+0.0720.002
+0.6940.073
+0.10
+Cyclohexanone
+1.270.05
+1.390.14
+0.91
+4-Methoxyphenyl acetone
+0.0710.004
+0.1310.023
+0.54
+Benzaldehyde
+1.220.06
+0.3330.048
+3.66
+NADH
+0.410.01
+0.000400.00004 1.0103
+HIRAKAWA ET AL.
+J. BIOSCI. BIOENG.,
+204
+The molecular mass of the native apADH was estimated as
+1.6102 kDa by gel filtration chromatography (Superdex 200
+HR 10/30), suggesting a tetrameric structure in aqueous so-
+lution.
+Effect of pH on apADH activity
+The effect of pH on
+the initial reaction rates of apADH was investigated for the
+oxidation of 2-pentanol and the reduction of 2-pentanone
+(Fig. 1). The optimal pH for the oxidation was around pH
+10.5, while that for the reduction was around pH 8.0. The
+initial rate of the oxidation was about 18-fold faster than
+that of the reduction measured in buffers at the respective
+pH optimums.
+Thermal activity and stability of apADH
+The effect
+of temperature on the activity of apADH is shown in Fig. 2.
+The reaction rate increased up to 95C. An Arrhenius plot
+showed no obvious transition point between 30C and 95C.
+The activation energy for oxidation of 2-pentanol was cal-
+culated to be 127 kJ mol–1.
+The thermal denaturation of apADH was monitored by
+the activity after incubation for 30 min at different tempera-
+tures (Fig. 3). The activity was completely maintained up to
+75C, after which its activity gradually decreased.
+Substrate specificity of apADH
+The substrate speci-
+ficity of apADH in the oxidative reaction was studied using
+a range of alcohols, including aliphatic, cyclic, and aromatic
+alcohols (Table 1). For aliphatic linear chain alcohols, a
+broad range of primary alcohols were oxidized by apADH.
+The Km values decreased as the alkyl chain became longer.
+Similarly, in secondary alcohols, apADH preferred alcohols
+with long alkyl chains. The highest kcat was found with 2-pen-
+tanol (0.60 s–1). For aromatic alcohols, the Km values be-
+came smaller as the alkyl chain length increased. Therefore,
+it appeared that alcohols with long chains were preferable
+substrates.
+The substrate specificity of apADH in the reductive re-
+action was examined using a range of ketones including
+aliphatic, cyclic, and aromatic ketones, and benzylaldehyde
+(Table 2). For aliphatic ketones, the Km values decreased as
+the alkyl chain became longer. The highest kcat was found
+with 2-hexanone (1.08 s–1). Therefore, it seemed that aro-
+matic ketones were not good substrates for apADH. For ex-
+ample, it was hard to quantify the reduction rate of aceto-
+phenone due to the very small substrate conversion.
+Enantioselectivity 
+Table 3 shows the enantioselec-
+tivity of apADH for various aliphatic ketones. This enzyme
+preferably reduced aliphatic ketone to (S)-alcohol. The val-
+ues of the enantiomeric excess increased with the increase
+of chain length except for the reduction of 2-hexanone. The
+highest enantioselectivity was showed with the reduction of
+2-nonanone.
+DISCUSSION
+In thermophilic archaea, several kinds of ADHs have been
+discovered. The ADH from Pyrococcus furiosus (11) is a
+short-chain ADH, while those from Thermococcus litoralis
+FIG. 1.
+pH dependence of the relative activities of apADH-cata-
+lyzed oxidation of 2-pentanol (open symbols) and reduction of 2-pen-
+tanone (closed symbols). The buffers used were citrate–KOH (circles),
+phosphate–KOH (triangles), glycylglycine–KOH (squares), glycine–
+KOH (inverted triangles), and phosphate–KOH (diamonds). Condi-
+tions are given in the text.
+FIG. 2.
+Temperature-dependence of the initial rate of apADH. The
+initial rate was measured in 100 mM potassium phosphate buffer
+(pH 8.0) containing 0.09 mM NAD+ and 3.8 mM 2-pentanol. The inset
+shows the Arrhenius plot of the same data.
+FIG. 3.
+Thermal denaturation of apADH monitored by the relative
+residual activity after incubation at each temperature for 30 min.
+TABLE 3.
+Enantiomeric excess (ee) for reduction
+of aliphatic ketones
+Substrate
+Product
+ee (%)
+2-Pentanone
+(S)-2-Pentanol
+60
+2-Hexanone
+(S)-2-Hexanol
+37
+2-Heptanone
+(S)-2-Heptanol
+79
+2-Octanone
+(S)-2-Octanol
+92
+2-Nonanone
+(S)-2-Nonanol
+95
+2-Decanone
+(S)-2-Decanol
+92
+PROPERTIES OF A. PERNIX ADH
+VOL. 97, 2004 
+205
+(12), Thermococcus strain ES-1 (13), Thermococcus hydro-
+thermalis (14), Thermococcus strain AN1 (20), and Pyro-
+coccus furiosus (21) are long-chain ADHs. Medium-chain
+ADHs have been discovered in Sulfolobus solfataricus (15,
+22) and Sulfolobus strain RC3 (23). apADH (ADH from
+A. pernix K1) is a medium-chain alcohol dehydrogenase.
+This enzyme is a homotetramer with a molecular mass of
+1.6102 kDa, while the S. solfataricus ADH was found to
+be a homodimer with a molecular mass of approximately 70
+kDa (15).
+Similar to many ADHs, the optimum pH for the oxidation
+reaction was higher than that for the reduction reaction (8,
+12, 14, 16, 24, 25). In the oxidation reaction, the pH profile
+showed a narrow peak in the alkaline region and less than
+20% of its maximum activity below pH 9.0. Similar results
+were found for the NADPH-dependent long-chain ADH from
+T. hydrothermalis (14). In the reductive reaction, apADH
+showed catalytic activity in a broader pH range compared to
+the oxidative reaction. It showed more than 20% of its maxi-
+mum activity between pH 6.0 and 10.2.
+apADH was thermophilic and thermostable. Similar to S.
+solfataricus ADH, which has been known as the most ther-
+mostable medium-chain alcohol dehydrogenase (15) iden-
+tified so far, the initial activity of apADH increased up to
+95C. However, apADH is more stable than S. solfataricus
+ADH. apADH maintained 24% of the initial activity after
+incubation for 30 min at 98C, while S. solfataricus ADH
+lost 90% of the original activity after incubation for 30 min
+at 95C (22). Guy et al. also examined the thermostability
+of apADH and reported that this enzyme had a half-life time
+for activity of over 2 h at 90C (19), while that of 30 min at
+90C was observed in our study. This inconsistency may be
+caused by the difference in experimental conditions, how-
+ever, which were not shown at all in the previous report.
+Consequently, apADH is now the most thermostable me-
+dium-chain alcohol dehydrogenase reported to date.
+apADH shows broad substrate specificity and prefers ali-
+phatic alcohols and ketones. Concerning the apADH prefer-
+ence for alcohols, there were no large differences in the re-
+activities between primary and secondary alcohols. The Km
+values decreased with longer chains, and the higher values
+for the kcat/Km ratio were obtained for 1-hexanol and 2-nona-
+none. apADH prefers long-chain aliphatic alcohols and ke-
+tones. As for other ADHs from thermophilic bacteria, P.
+furiosus ADH and T. brockii ADH prefer secondary alco-
+hols than primary alcohols (11, 26), while T. litoralis ADH
+and S. solfataricus ADH prefer primary alcohols (12, 15).
+The highest catalytic activities of P. furiosus ADH, T. litora-
+lis ADH, and T. brockii ADH were found with C4, C6, and
+C5 alcohols, respectively (11, 12, 26).
+The kcat values for aromatic ketones were small, while
+those for aromatic alcohols were larger than those for ali-
+phatic alcohols. Acetophenone, in particular, was not esti-
+mated due to the low reaction rate, while benzaldehyde,
+which has the acetophenone structure without the methyl
+group, was a preferable substrate.
+apADH reduced aliphatic C8–C10 ketones to (S)-alcohols
+with high enantioselectivity. The enantioselectivity of T.
+brockii ADH is explained by ‘two-site’ model with a large
+and a small binding pockets (9). This model cannot explain
+that the enantioselectivity for 2-hexanone was lower than
+that for 2-pentanone, while the high enantiomeric excess of
+long-chain ketones seems to fit this model. Since cyclohex-
+anol is one of good substrates, a large and a small binding
+pockets of apADH might not be definitely separated.
+No ADHs from hyperthermophilic organisms that show
+enantioselectivity have been reported to date. Some ADHs
+from thermophilic bacteria, which are less stable than ADHs
+from hyperthermophilic organisms, showed high enantio-
+selectivity (9, 27, 28). However, these ADHs are dependent
+on NADP(H) that is rather expensive than NAD(H). Valu-
+able properties of more inexpensive cofactor NAD(H)-de-
+pendent apADH such as thermal stability, reversibility, broad
+substrate specificity and high enantioselectivity will make
+this enzyme one of potential biocatalysts for industrial chiral
+aliphatic alcohol syntheses.
+ACKNOWLEDGMENTS
+We are grateful to the Department of Biotechnology, National
+Institute of Technology and Evaluation which kindly provided the
+A2GR7175 shot-gun clone containing an alcohol dehydrogenase
+coding sequence (ORF: APE2239). The present work was sup-
+ported partly by a Grant-in-Aid for the 21st century COE program,
+“Human-Friendly Material Based on Chemistry” from the Minis-
+try of Education, Culture, Sports, Science and Technology of
+Japan.
+REFERENCES
+1. Brändén, C.-I., Jörnvall, H., Eklund, H., and Furugren,
+B.: Alcohol dehydrogenases, p. 103–190. In Boyer, P. D. and
+Krebs, E. G. (ed.), The enzymes, 3rd ed., vol. 11. Academic
+Press, New York (1975).
+2. Reid, M. F. and Fewson, C. A.: Molecular characterization
+of microbial alcohol dehydrogenases. Crit. Rev. Microbiol.,
+20, 13–56 (1994).
+3. Jörnvall, H., Persson, B., and Jeffery, J.: Characteristics of
+alcohol/polyol dehydrogenases. The zinc-containing long-
+chain alcohol dehydrogenases. Eur. J. Biochem., 167, 195–
+201 (1987).
+4. Adolph, H-W., Zwart, P., Meijers, R., Hubatsch, I., Kiefer,
+M., Lamzin, V., and Cedergren-Zeppezauer, E.: Structural
+basis for substrate specificity difference of horse liver alcohol
+dehydrogenase isozymes. Biochemistry, 39, 12885–12897
+(2000).
+5. Saliola, M., Shuster, J. R., and Falcone, C.: The alcohol de-
+hydrogenase system in the yeast, Kluyveromyces lactis. Yeast,
+6, 193–204 (1990).
+6. Niefind, K., Müller, J., Riebel, B., Hummel, W., and
+Schomburg, D.: The crystal structure of R-specific alcohol
+dehydrogenase from Lactobacillus brevis suggests the struc-
+tural basis of its metal dependency. J. Mol. Biol., 327, 317–
+328 (2003).
+7. Williamson, V. M. and Paquin, C. E.: Homology of Saccha-
+romyces cerevisiae ADH4 to an iron-activated alcohol dehy-
+drogenase from Zymomonas mobilis. Mol. Gen. Genet., 209,
+371–381 (1987).
+8. Zelinski, T., Peters, J., and Kula, M.-R.: Purification and
+characterization of a novel carbonyl reductase isolated from
+Rhodococcus erythropolis. J. Biotechnol., 33, 283–292 (1994).
+9. Keinan, E., Hafeli, E. K., Seth, K. K., and Lamed, R.:
+Thermostable enzymes in organic synthesis. 2. Asymmetric
+reduction of ketones with alcohol dehydrogenase from Ther-
+moanaerobium brockii. J. Am. Chem. Soc., 108, 162–169
+(1986).
+HIRAKAWA ET AL.
+J. BIOSCI. BIOENG.,
+206
+10. Bradshow, C. W., Hummel, W., and Wong, C.-H.: Lacto-
+bacillus kefir alcohol dehydrogenase: a useful catalyst for
+synthesis. J. Org. Chem., 57, 1532–1536 (1992).
+11. Ost, J. V. D., Voorhorst, W. G. B., Kengen, A. W. M.,
+Geerling, A. C. M., Wittenhorst, V., Gueguen, Y., and Vos,
+W. M. D.: Genetic and biochemical characterization of a
+short-chain alcohol dehydrogenase from the hyperthermo-
+philic archaeon Pyrococcus furiosus. Eur. J. Biochem., 268,
+3062–3068 (2001).
+12. Ma, K., Robb, F. T., and Adams, M. W. W.: Purification and
+characterization of NADP-specific alcohol dehydrogenase and
+glutamate dehydrogenase from hyperthermophilic archaeon
+Thermococcus litoralis. Appl. Environ. Microbiol., 60, 562–
+568 (1994).
+13. Ma, K., Loessner, H., Heider, J., Johnson, M. K., and
+Adams, M. W. W.: Effects of elemental sulfur on the metabo-
+lism of the deep-sea hyperthermophilic archaeon Thermococ-
+cus strain ES-1: characterization of a sulfur-regulated, non-
+heme iron alcohol dehydrogenase. J. Bacteriol., 177, 4748–
+4756 (1995).
+14. Antoine, E., Rolland, J.-L., Raffin, J.-P., and Dietrich, J.:
+Cloning and over-expression in Escherichia coli of the gene
+encoding NADPH group III alcohol dehydrogenase from
+Thermococcus hydrothermalis. Eur. J. Biochem., 264, 880–
+889 (1999).
+15. Rella, R., Raia, C. A., Pensa, M., Pisani, F. M.,
+Gambacorta, A., Rosa, M. D., and Rossi, M.: A novel ar-
+chaebacterial NAD+-dependent alcohol dehydrogenase. Puri-
+fication and properties. Eur. J. Biochem., 167, 475–479 (1987).
+16. Guagliardi, A., Martino, M., Iaccarino, I., Rosa, M. D.,
+Rossi, M., and Bartolucci, S.: Purification and characteri-
+zation of the alcohol dehydrogenase from a novel strain of
+Bacillus stearothermophilus growing at 70C. Int. J. Biochem.
+Cell Biol., 28, 239–246 (1996).
+17. Kawarabayasi, Y., Hino, Y., Horikawa, H., Yamazaki, S.,
+Haikawa, Y., Jin-no, K., Takahashi, M., Sekine, M., Baba,
+S., Ankai, A., and other 20 authors: Complete genome se-
+quence of an aerobic hyper-thermophilic crenarchaeon, Aero-
+pyrum pernix K1. DNA Res., 6, 83–101 (1999).
+18. Guy, J. E., Isupov, M. N., and Littlechild, J. A.: Crystalliza-
+tion and preliminary X-ray diffraction studies of a novel al-
+cohol dehydrogenase from the hyperthermophilic archaeon
+Aeropyrum pernix. Acta Crystallogr. D Biol. Crystallogr.,
+59, 174–176 (2003).
+19. Guy, J. E., Isupov, M. N., and Littlechild, J. A.: The struc-
+ture of an alcohol dehydrogenase from the hyperthermophilic
+archaeon Aeropyrum pernix. J. Mol. Biol., 331, 1041–1051
+(2003).
+20. Li, D. and Stevenson, K. J.: Purification and sequence analy-
+sis of a novel NADP(H)-dependent type III alcohol dehy-
+drogenase from Thermococcus strain AN1. J. Bacteriol., 179,
+4433–4437 (1997).
+21. Ma, K. and Adams, M. W. W.: An unusual oxygen-sensi-
+tive, iron- and zinc containing alcohol dehydrogenase from
+the hyperthermophilic archaeon Pyrococcus furiosus. J. Bac-
+teriol., 181, 1163–1170 (1999).
+22. Giordano, A., Cannio, R., Cara, F. L., Bartolussi, S., Rossi,
+M., and Raia, C. A.: Asn249Tyr substitution at the coen-
+zyme binding domain activates Sulfolobus solfataricus alco-
+hol dehydrogenase and increase its thermal activity. Biochem-
+istry, 38, 3043–3054 (1999).
+23. Cannio, R., Fiorentino, G., Carpinelli, P., Rossi, M., and
+Bartolucci, S.: Cloning and overexpression in Escherichia
+coli of the genes encoding NAD-dependent alcohol dehydro-
+genase from two Sulfolobus species. J. Bacteriol., 178, 301–
+305 (1996).
+24. Kleiner, D. E. and Johnston, M.: Purification and proper-
+ties of a secondary alcohol dehydrogenase from the parasitic
+protozoan Tritrichomonas foetus. J. Biol. Chem., 260, 8038–
+8043 (1985).
+25. Raia, C. A., Caruso, C., Marino, M., Vespa, N., and Rossi,
+M.: Activation of Sulfolobus solfataricus alcohol dehydroge-
+nase by modification of cysteine residue 38 with iodoacetic
+acid. Biochemistry, 35, 638–647 (1996).
+26. Lamed, R. J. and Zeikus, J. G.: Novel NADP-linked alco-
+hol-aldehyde/ketone oxidoreductase in thermophilic ethanolo-
+genic bacteria. Biochem. J., 195, 183–190 (1981).
+27. Simpson, H. D. and Cowan, D. A.: Controlling the enantio-
+selectivity of sec-alcohol dehydrogenase from Thermoanaero-
+bacterium sp. KET4B1. Protein Peptide Lett., 4, 25–32
+(1997).
+28. Heiss, C. and Phillips, R. S.: Asymmetric reduction of ethy-
+nyl ketones and ethynylketoesters by secondary alcohol dehy-
+drogenase from Thermoanaerobacter ethanolicus. J. Chem.
+Soc., Perkin Trans. 1, 2821–2825 (2000).

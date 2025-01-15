@@ -1,0 +1,1514 @@
+Sugar Specificity of Bacterial CMP Kinases as
+Revealed by Crystal Structures and Mutagenesis of
+Escherichia coli Enzyme
+Thomas Bertrand1, Pierre Briozzo2*, Liliane Assairi3
+Augustin Ofiteru3,4, Nadia Bucurenci4, He
+Âle
+Áne Munier-Lehmann3
+Be
+Âatrice Golinelli-Pimpaneau1, Octavian Ba
+Ãrzu3 and Anne-Marie Gilles3
+1Laboratoire d'Enzymologie et
+de Biochimie Structurales, UPR
+9063 du CNRS, 91198 Gif-sur-
+Yvette Cedex, France
+2Laboratoire de Chimie
+Biologique, Institut National
+Agronomique Paris-Grignon
+78850, Thiverval-Grignon
+France
+3Laboratoire de Chimie
+Structurale des
+Macromole
+Âcules, URA 2185 du
+CNRS, Institut Pasteur
+75724 Paris Cedex 15, France
+4Institutul Cantacuzino,
+70100, Bucharest, Romania
+Bacterial cytidine monophosphate (CMP) kinases are characterised by an
+insert enlarging their CMP binding domain, and by their particular sub-
+strate speci®city. Thus, both CMP and 20-deoxy-CMP (dCMP) are good
+phosphate acceptors for the CMP kinase from Escherichia coli (E. coli
+CMPK),
+whereas
+eukaryotic
+UMP/CMP
+kinases
+phosphorylate
+the
+deoxynucleotides with very low ef®ciency. Four crystal structures of
+E. coli CMPK complexed with nucleoside monophosphates differing in
+their sugar moiety were solved. Both structures with CMP or dCMP
+show interactions with the pentose that were not described so far. These
+interactions are lost with the poorer substrates AraCMP and 20,30-
+dideoxy-CMP. Comparison of all four structures shows that the pentose
+hydroxyls
+are
+involved
+in
+ligand-induced
+movements
+of
+enzyme
+domains. It also gives a structural basis of the mechanism by which
+either ribose or deoxyribose can be accommodated. In parallel, for the
+four nucleotides the kinetic results of the wild-type enzyme and of three
+structure-based variants are presented. The phosphorylation rate is sig-
+ni®cantly decreased when either of the two pentose interacting residues
+is mutated. One of these is an arginine that is highly conserved in all
+known nucleoside monophosphate kinases. In contrast, the other residue,
+Asp185, is typical of bacterial CMP kinases. It interacts with Ser101, the
+only residue conserved in all CMP binding domain inserts. Mutating
+Ser101 reduces CMP phosphorylation only moderately, but dramatically
+reduces dCMP phosphorylation. This is the ®rst experimental evidence of
+a catalytic role involving the characteristic insert of bacterial CMP
+kinases. Furthermore, this role concerns only dCMP phosphorylation, a
+feature of this family of enzymes.
+# 2002 Elsevier Science Ltd.
+Keywords: bacterial CMP kinases; deoxynucleotide phosphorylation;
+nucleoside monophosphate binding domain insertion; site-directed
+mutagenesis; X-ray crystallography
+*Corresponding author
+Introduction
+Nucleoside monophosphate (NMP) kinases are
+key enzymes in the metabolism of nucleotides.
+They catalyse the reversible transfer of a g phos-
+phoryl group from a nucleoside triphosphate to a
+particular nucleoside monophosphate.1 Cytidine
+monophosphate kinase from Escherichia coli (E. coli
+CMPK), a monomer of 227 residues, speci®cally
+phosphorylates CMP (or dCMP), using ATP as the
+preferred
+phosphoryl
+donor,
+according
+to
+the
+scheme:
+E-mail address of the corresponding author:
+briozzo@grignon.inra.fr
+Abbreviations used: AraCMP, cytosine b-D-
+arabinofuranoside-50-monophosphate; CDP, cytidine-50-
+diphosphate; CMP, cytidine-50-monophosphate; CMPK,
+cytidine monophosphate kinase; dCMP, 20-deoxy-CMP;
+ddCMP, 20,30-dideoxy-CMP; NMP, nucleoside
+monophosphate; NMPb-insert, the insertion of the NMP
+binding domain; r.m.s.d., root mean square deviation.
+doi:10.1006/jmbi.2001.5286 available online at http://www.idealibrary.com on
+J. Mol. Biol. (2002) 315, 1099±1110
+0022-2836/02/051099±12 $35.00/0
+# 2002 Elsevier Science Ltd.
+ATP  Mg2  CMP $ ADP  Mg2  CDP
+The CDP and 20-deoxy-CDP produced are further
+phosphorylated to produce CTP and 20-deoxy-CTP,
+precursors of the major biological molecules RNA,
+DNA, and phospholipids.
+Concerning the enzymes involved in the phos-
+phorylation
+of
+pyrimidine
+nucleoside
+mono-
+phosphates, three major differences are observed
+between bacteria and eukaryotes.
+Firstly, in eukaryotes a single enzyme phos-
+phorylates UMP and CMP with similar ef®ciency.
+Conversely, bacterial CMP kinases phosphorylate
+UMP with very low rates, this role being assigned
+to distinct UMP kinases.
+Secondly, E. coli CMPK phosphorylates dCMP
+nearly as well as it does CMP. This is in contrast to
+eukaryotic UMP/CMP kinases, which phosphory-
+late the corresponding deoxynucleotides with very
+low ef®ciency.2 Mutants of E. coli devoid of CMP
+kinase activity have a level of CTP comparable to
+that
+found
+in
+wild-type
+bacteria,
+due
+to
+the
+enzyme
+CTP
+synthetase
+which
+produces
+CTP
+through UTP amination. In contrast, the dCTP
+pool and the rate of DNA replication are reduced
+in
+the
+mutants:
+ribonucleoside
+diphosphate
+reductase, which catalyses the formation of 20-
+deoxyribonucleoside diphosphates from the corre-
+sponding ribonucleotides, cannot fully compensate
+for the lack of E. coli CMPK.3 Therefore, phos-
+phorylation of dCMP appears as one of the main
+roles of CMP kinase in E. coli.
+Thirdly, the kinetic differences between eukary-
+otic UMP/CMP kinases and bacterial CMP kinases
+are echoed by sequence differences. All known
+NMP kinases have an overall well-conserved fold
+with three domains:4,5 the CORE domain, contain-
+ing
+a
+®ve-stranded
+parallel
+b-sheet;
+the
+LID
+domain, which like a lid closes the active site upon
+binding of the phosphate donor ATP; the NMP
+binding domain, which closes the active site upon
+binding of the phosphate acceptor. Classically,
+NMP kinases are divided into short forms, includ-
+ing
+eukaryotic
+UMP/CMP
+kinases,
+and
+long
+forms.
+The
+latter
+group
+consists
+of
+adenylate
+kinases with an insertion of around 27 residues
+into the LID domain. Bacterial CMP kinases rep-
+resent a third distinct family of NMP kinases, as
+they possess a short LID domain but have an inser-
+tion of around 40 residues into their NMP binding
+domain (NMPb-insert).
+We previously solved the ®rst structure of a bac-
+terial CMP kinase, that of E. coli, either alone or in
+complex with CDP.6 Binding of CDP induces a
+movement of the NMP-binding domain which is
+different from that of the two structurally charac-
+terised eukaryotic UMP/CMP kinases: those from
+yeast7 and from amoeba.8 The CDP-CMPK struc-
+ture explained the speci®city of the E. coli enzyme
+for CMP versus UMP, but neither its particular abil-
+ity to phosphorylate dCMP nor the potential role
+of the NMPb-insert.
+To further investigate the phosphorylation of
+deoxynucleotides by E. coli CMPK, we solved its
+structure in complex with the two natural sub-
+strates CMP and dCMP. Then, we looked at the
+complexes with two nucleotide analogues modi®ed
+on the pentose moiety, cytosine b-D-arabinofurano-
+side-50-monophosphate
+(AraCMP)
+and
+20,30-
+dideoxy-CMP (ddCMP), which are poorer sub-
+strates.
+In addition, we tested by site-directed mutagen-
+esis
+the
+importance
+of
+three
+residues
+which,
+according to crystal structure analysis, were either
+directly interacting with the pentose in the com-
+plexes with CMP or dCMP, or H-bonded to such
+an interacting residue. The catalytic ef®ciencies of
+the
+three
+resulting
+variants
+for
+CMP,
+dCMP,
+AraCMP and ddCMP are interpreted in relation
+to
+crystal
+structures.
+The
+conservation
+among
+bacterial CMP kinases of the mutated residues is
+discussed.
+Results
+Comparison of E. coli CMPK structures
+complexed either with the substrate CMP or
+the product CDP
+Overall, the CMP-CMPK structure (Figure 1(a))
+is the same as that previously published in com-
+plex with CDP. The CORE domain, which contains
+®ve parallel b strands connected by a helices, and
+the short LID domain are similar to those of short
+NMP kinases. The NMP binding domain contains
+a 40-residue insert (blue trace, Leu63 to Gln102 in
+E. coli CMPK) typical of bacterial CMP kinases:
+this insert contains three antiparallel b strands and
+two a helices, the longest one being by far a5
+(labelled on Figure 1(b)). When CMP or CDP is
+bound, the helical part of the NMPb-insert moves
+closer to the ligand in an induced-®t movement.
+A comparison of the active sites with CMP and
+CDP (Figure 2, top) indicates that the same resi-
+dues interact with the a phosphate or the cytosine
+of the two nucleotides. Residues that are H-bonded
+to the a phosphate (Arg41, Arg131) are conserved
+in all known NMP kinases, whereas most residues
+H-bonded
+to
+the
+cytosine
+(Asp132,
+Arg110,
+Arg188) are conserved only in bacterial CMP
+kinases (see ref.2 for an alignment of amino acid
+sequences from different NMP kinases with E. coli
+CMPK).
+However, the interactions with the sugar moiety
+are quite different in the two complexes. With CDP
+the only direct polar interaction between the E. coli
+enzyme and the ribose is the hydrogen bond invol-
+ving the 20-hydroxyl group. Whereas the carboxy-
+late group of Asp185 interacts only with the 20-OH
+of CDP, it is H-bonded to the two hydroxyl groups
+of the CMP ribose. The other important difference
+with
+CDP-CMPK
+concerns
+Arg181,
+which
+is
+H-bonded to both the 30-OH and the a phosphate
+of CMP. In the presence of CDP the side-chain of
+this arginine points away from the nucleotide.
+1100
+Sugar Speci®city of Escherichia coli CMP Kinase
+The conformation of the ribose is C30-endo in
+CMP-CMPK crystals (C30 for green models is over
+the sugar ring in the orientation of Figure 1(c)), as
+opposed to C20-endo in CDP-CMPK. C30-endo and
+C20-endo conformations, the two principal sugar
+puckering modes, are in rapid equilibrium in
+solution.9 The C30-endo conformation preferred for
+the bound CMP brings the 30-OH closer to Arg181
+and Asp185. This allows a bidentate interaction of
+the carboxylate of Asp185 with both hydroxyls of
+the ribose.
+The structure of E. coli CMPK complexed
+with dCMP
+The crystal structure with dCMP shows different
+closures of helices a5 and a8
+Both CMP-CMPK and dCMP-CMPK crystals
+belong to the P212121 space group, with very simi-
+lar unit cells (Table 1), and two molecules per
+asymmetric unit. The two molecules of the asym-
+metric unit are essentially identical in the structure
+with CMP (Figure 1(b), green models), in contrast
+to the structure with dCMP: the calculated root
+mean square deviation (r.m.s.d.) for Ca atoms
+between the two molecules of an asymmetric unit
+is 0.89 A
+Ê with dCMP, and only 0.45 A
+Ê with CMP.
+With dCMP, most of the backbone remains very
+similar, but signi®cant variations are observed for
+helices a8 (Phe171 to Asn187) and to a lesser extent
+a5 (Arg92 to Ala104). These are the two helices
+that move towards each other to close the cleft
+when a nucleotide binds, like two opposite jaws.
+For the sake of clarity, we will call molecule A of
+an asymmetric unit that which has the narrower
+cleft, and molecule B the more open one. The
+dCMP-CMPK structure residues of a5 and a8
+involved in crystal contacts are identical for both
+molecules of an asymmetric unit. Thus, the differ-
+ences observed between molecules A and B are not
+an artefact due to a particular crystal packing in
+this
+region.
+Molecule
+A
+from
+dCMP-CMPK
+(Figure 1(b), magenta) is very similar to those with
+CMP. In molecule B (pink), the left jaw a8 moves
+Figure 1. Conformations of E. coli CMPK with the natural substrates CMP and dCMP. (a) Molecular surface of
+CMP-CMPK viewed along the active site, showing the substrate cavity with a blue positive zone around the a phos-
+phate. The backbone is shown in transparency: white for the CORE domain, green for the short LID domain and red
+and blue (insert) for the NMP binding domain. The ball-and-stick depicts CMP. Drawn with GRASP.28 (b) Backbone
+superposition of four structures: the two molecules A and B of an asymmetric unit either from CMP-CMPK or from
+dCMP-CMPK structures. The orientation is the same as in (a). With CMP molecule A is dark green, with some resi-
+dues in ball-and-stick, and molecule B light green. With dCMP molecule A is magenta, molecule B is pink. Sticks of
+the bound substrate are coloured as the corresponding protein. Carbon atoms are grey, oxygen atoms red, nitrogen
+atoms blue and phosphorus atoms magenta. (c) Magni®cation of the substrates in a plane parallel to the cytosine
+rings, which emphasises the conformations of the pentose. Drawn with MOLSCRIPT29 and Raster3D.30
+Sugar Speci®city of Escherichia coli CMP Kinase
+1101
+further from dCMP (the calculated r.m.s.d. for a8
+between molecules A and B is 2.11 A
+Ê with dCMP,
+whereas it is only 0.31 A
+Ê with CMP). The right
+jaw, helix a5 from the NMPb-insert, also moves
+further from dCMP (r.m.s.d. for a5 is 1.48 A
+Ê with
+dCMP, and 0.49 A
+Ê with CMP).
+With dCMP, only the molecule A makes polar
+interactions like those with CMP
+The bottom of Figure 2 shows the enzyme inter-
+actions with dCMP in molecules A and B. In mol-
+ecule A, Arg181 interacts with the a phosphate
+and the 30-OH as it does with CMP, although the
+position of the guanidinium group is different. As
+is the case with CMP, the side-chain of Asp185
+interacts with the 30-OH and with Ser101. Thus, the
+same residues interact with the ribose and the
+deoxyribose. The only difference is that the carbox-
+ylate of Asp185 no longer has the 20-OH partner
+for hydrogen bonding.
+In molecule B with dCMP, Arg181 and Asp185
+from a8 do not interact anymore with the 30-OH,
+and Arg188, a residue adjacent to a8, does not
+interact with the cytosine. This is consistent with
+the fact that a8 is further from dCMP than in mol-
+ecule A. Similarly, the remoteness of a5 from
+dCMP is probably related to the loss of interaction
+between the side-chains of Ser101 from a5 and
+Asp185 from a8. However, most polar interactions
+of the enzyme with the a phosphate or the cytosine
+from the nucleotide substrate are conserved in all
+structures with CDP, CMP and dCMP. Thus, in the
+relatively more open conformation of molecule B,
+dCMP remains close to the position observed in
+molecule A, except that it penetrates less deeply
+into the binding cleft (see Figure 1(b)).
+Another difference between molecules A and B
+is the sugar conformation (see Figure 1(c)). It is
+C30-endo in A, as was the case for CMP, whereas it
+is C20-endo in B (pink model), as with CDP. As a
+Figure 2. Polar interactions of E. coli CMPK with its natural substrates CMP or dCMP, and with its natural product
+CDP. Top left: with CMP, valid for both molecules of the asymmetric unit. Top right: with CDP (crystals contained
+one molecule per asymmetric unit). Bottom: with dCMP. For molecule B of the asymmetric unit the magni®cation is
+smaller in order to allow visualisation of the distant residues Arg181 and Asp185. Nucleotides have yellow sticks.
+Enzyme residues H-bonded to the cytosine or the a phosphate of the nucleotides are simply labelled, as they are
+essentially comparable in all structures. Conversely, side-chains of residues that can be H-bonded to the pentose are
+shown with grey sticks, and the gamma oxygen of Ser101 as a ball. Dotted lines indicate atoms distant from less
+than 3.2 A
+Ê . CMP-CMPK and dCMP-CMPK structures were superposed on the previously published structure of
+CDP-CMPK. The orientation, chosen to avoid overlapping of protein residues with bound ligands, differs from those
+of Figure 1.
+1102
+Sugar Speci®city of Escherichia coli CMP Kinase
+result, the 30-OH from the pentose has very differ-
+ent orientations in molecules A and B.
+Structures with pentose modified
+nucleotide analogues
+Common features of both structures with AraCMP
+or ddCMP
+To further investigate the role of the pentose
+hydroxyls, we solved the crystal structures of
+E. coli CMPK with the monophosphates of two
+nucleoside analogues that have altered af®nities
+for the enzyme (Table 1): aracytidine (Cytarabine),
+a drug used in cancer chemotherapy, and 20,30-
+dideoxy-cytidine
+(ddC),
+used
+against
+Human
+Immunode®ciency Virus.
+As was the case with dCMP, the asymmetric
+unit of both crystals contains two molecules which
+are rather different (r.m.s.d. between Ca positions:
+0.73 A
+Ê for AraCMP, 0.78 A
+Ê for ddCMP). Besides,
+with AraCMP and ddCMP the cleft is more widely
+open than is the case with CMP.
+Figure 3 shows the enzyme-nucleotide polar
+interactions in molecules A and B for both ana-
+logues, and the omit maps of the substrates.
+Despite their high Km, the electron densities are
+very clear. At ®rst sight, the two nucleotide ana-
+logues have structures that are close to those of the
+natural substrates. Thus, in molecules A the resi-
+dues that interact with the a phosphate and with
+the cytosine of AraCMP or ddCMP also interact
+with CDP, CMP and dCMP (molecule A). Never-
+theless, in the presence of the analogues several
+interactions with the enzyme are lost: no hydrogen
+bond connects the a phosphate to Arg181. Then, in
+molecules B Arg188 does not interact with the
+bound NMP, as is the case in dCMP (molecule B),
+but in addition Arg131 is no longer H-bonded to
+the a phosphate. Compared to the natural sub-
+strates CMP and dCMP, the weaker polar inter-
+actions of the analogues with the enzyme easily
+explain their relatively low af®nity.
+Changing the orientation of the 2 0-OH:
+characteristics of the AraCMP-CMPK structure
+AraCMP, an arabinonucleotide, differs from its
+ribo analogue in the altered con®guration at C20:
+the 20-hydroxyl is cis-oriented to the glycosyl C10-N
+bond. Whereas the absence of the 20-OH in dCMP
+is of little consequence on the phoshorylation rate,
+Table 1. Structural data
+Data set
+CMP
+dCMP
+AraCMP
+ddCMP
+Data collection
+Wavelength (A
+Ê )
+0.987
+1.001
+0.968
+0.933
+Space group
+P212121
+P212121
+P212121
+P212121
+Unit cell (A
+Ê )
+a
+74.09
+73.78
+73.58
+72.65
+b
+75.74
+75.98
+73.77
+75.31
+c
+77.99
+78.09
+77.64
+78.04
+Resolution (A
+Ê )
+20-1.9
+30-2.3
+15-2.25
+35-1.95
+Observed reflections
+336,628
+345,577
+196,124
+503,844
+Unique reflections
+35,160
+20,232
+19,192
+32,964
+Completeness (%)
+94.0 (96.4)a
+96.4 (95.7)
+93.6 (94.9)
+93.0 (96.1)
+I/s(I)
+12.7 (7.68)
+25.5 (7.30)
+14.0 (4.25)
+9.93 (2.61)
+Rsym
+b (%)
+7.1 (12.1)
+4.5 (16.7)
+8.3 (27.4)
+7.3 (39.6)
+Refinement statistics
+Rcryst
+c
+(%)
+20.2
+21.9
+19.9
+22.1
+Rfree
+d (%)
+24.8
+25.5
+25.4
+25.3
+Residues
+3-225
+3-225
+3-223
+3-225
+Number of water molecules
+451
+385
+80
+433
+R.m.s.d.
+bond lengths (A
+Ê )
+0.0043
+0.0096
+0.0054
+0.0059
+bond angles ()
+1.08
+1.25
+1.26
+1.19
+Average B factor (A
+Ê 2)
+main chain
+16.4
+30.8
+26.3
+28.4
+side-chain
+18.5
+31.6
+25.3
+31.5
+nucleotide
+11.9
+20.8
+28.5
+23.3
+water molecules
+23.0
+43.2
+29.5
+39.6
+sulphate S1
+12.5
+25.6
+44.3
+26.7
+Ramachandran statisticse (%)
+most favoured regions
+90.8
+90.5
+88.9
+90.8
+additional allowed regions
+8.8
+9.3
+10.4
+8.8
+a Numbers in parentheses represent values in the highest resolution shell (last of 10 shells).
+b Rsym  hi jI(h,i) ÿ hI(h)ij/hi I(h,i) where I(h,i) is the intensity value of the ith measurement of h and hI(h)i is the correspond-
+ing mean value of I(h) for all i measurements.
+c Rcryst   jjFobsj ÿ jFcalcjj/ jFobsj, where jFobsj and jFcalcj are the observed and calculated structure factor amplitudes
+respectively.
+d Rfree is the same as Rcryst but calculated with a 10 % subset of all re¯ections that was never used in crystallographic re®nement.
+e As evaluated by PROCHECK.32
+Sugar Speci®city of Escherichia coli CMP Kinase
+1103
+its inversion in AraCMP has a greater effect: kcat/
+Km is ten times lower than with dCMP (Table 2). In
+the crystal structure, for both molecules A and B
+the 20-OH typical of AraCMP establishes an hydro-
+gen bond with Asp185. This interaction requires
+that Asp185 side-chain moves so that it no longer
+interacts with the 30-OH and Ser101. Thus the
+bidentate interaction observed with CMP is lost.
+However, the 30-OH orientation remains close to
+those observed with the natural substrates CMP
+and dCMP.
+Suppressing the 30-OH: characteristics of the
+ddCMP-CMPK structure
+ddCMP
+lacks
+both
+hydroxyl
+groups
+of
+the
+pentose: the 20-OH, like dCMP, and in addition the
+30-OH. Kinetic experiments indicate that it is an
+Table 2. Kinetic parameters of E. coli CMP kinase with four NMPs
+Enzyme
+tm (C)
+CMP
+dCMP
+AraCMP
+ddCMP
+Km (mM)
+0.035
+0.094
+0.53
+0.46
+Wild-type
+52
+kcat (sÿ1)
+103
+109
+56
+0.047
+kcat/Km (sÿ1 mMÿ1)
+2940
+1160
+105
+0.102
+Km (mM)
+0.47
+0.24
+1.0
+0.15
+D185A
+49
+kcat (sÿ1)
+0.26
+0.071
+0.085
+0.0083
+kcat/Km (sÿ1 mMÿ1)
+0.54
+0.30
+0.083
+0.056
+Km (mM)
+0.19
+0.24
+0.79
+0.54
+R181M
+53
+kcat (sÿ1)
+1.38
+0.45
+1.36
+0.12
+kcat/Km (sÿ1 mMÿ1)
+7.4
+1.9
+1.7
+0.22
+Km (mM)
+0.08
+0.19
+0.47
+0.65
+S101A
+52
+kcat (sÿ1)
+56
+1.2
+3.6
+0.0033
+kcat/Km (sÿ1 mMÿ1)
+697
+6.1
+7.5
+0.0059
+Activity was determined at 30 C and pH 7.4; ATP was constant (1 mM) whereas the concentration of various NMPs varied
+between 0.02 and 10 mM. tm is the temperature at which the denaturation of the protein is half completed. kcat was calculated
+assuming a molecular mass of E. coli CMP kinase of 24.8 kDa.
+Figure 3. Polar interactions with nucleotide analogues. Fo ÿ Fc omit maps (magenta) were calculated in the absence
+of the nucleotide model. The contour level, chosen to give comparable volumes of the maps, is 2s (molecule A) and
+1.5s (molecule B) for AraCMP, and 3.8s for ddCMP. The orientation is the same as in Figure 2 for ddCMP, and
+slightly different for AraCMP in order to emphasise the 20-OH orientation. Drawn with BobScript.31
+1104
+Sugar Speci®city of Escherichia coli CMP Kinase
+extremely poor substrate of the wild-type E. coli
+CMPK (Table 2). The kcat/Km value for ddCMP is
+at least 10,000 times lower than for dCMP.
+Concerning the opening of the a5 and a8 jaws,
+conformations with ddCMP are close to those with
+dCMP: for both deoxynucleotides, molecule B is
+signi®cantly more open than molecule A (not
+shown).
+Concerning
+the
+enzyme-ligand
+inter-
+actions (Figure 3, bottom), the absence of the 30-
+OH results in the loss of the polar interaction
+between Arg181 and the a phosphate observed
+with dCMP. For the particular case of molecule B,
+the interaction with Asp132 is lost.
+Site-directed mutagenesis
+Substitution of residues directly interacting with the
+sugar moiety: kinetic parameters of the D185A
+and R181M variants
+As the pentose makes direct interactions with
+Asp185 in the CDP, CMP, dCMP (molecule A) and
+AraCMP complexes, and with Arg181 for CMP
+and dCMP(A), we mutated these two positions.
+The mid-point of thermal denaturation (tm) for
+both variants is close to that of the wild-type
+enzyme, suggesting that these mutations do not
+alter the protein structure. Table 2 gives the kinetic
+parameters of the resulting enzymes. Also shown
+are those of the wild-type enzyme, which phos-
+phorylates dCMP nearly as well as CMP. For
+nucleotide analogues, both Km values of the wild-
+type enzyme are at least ten times as high as that
+for CMP, but whereas kcat for AraCMP remains
+half that with CMP, it is drastically reduced with
+ddCMP (more than 2000 times lower).
+Concerning the natural nucleotides CMP and
+dCMP, the D185A variant has higher Km values
+than the wild-type enzyme, but the difference is at
+most one order of magnitude. On the other hand,
+the kcat of this variant is reduced by a factor of 400
+with CMP, and 1500 with dCMP. Mutation R181M
+has the same results concerning Km values; the
+results concerning kcat values are similar, although
+less pronounced, than for mutation D185A. On the
+whole, both mutations exhibit dramatic conse-
+quences on kcat/Km towards CMP and dCMP (the
+Figure 4. Sequence alignment of the NMP binding domain insert characteristic of bacterial CMP kinases. Alignment
+made by BLAST.10 Residues identical to that of E coli CMPK have a grey background, and Ser101, the only strictly
+conserved residue, a black one. The secondary structure assignment and residue numbering for E. coli CMPK are
+shown above. E. co, Escherichia coli; S. ty, Salmonella typhi; S. en, Salmonella enteritidis; Y. pe, Yersinia pestis; V. ch,
+Vibrio cholerae; A. ac, Actinobacillus actinomycetemcomitans; P. mu, Pasteurella multocida; S. pu, Shewanella putrefaciens; P.
+ae, Pseudomonas aeruginosa; H. in, Haemophilus in¯uenzae; B. pe, Bordetella pertussis; N. go, Neisseria gonorrhoea; N. me,
+Neisseria meningitidis; B. su, Bacillus subtilis; B. st, Bacillus stearothermophilus; B. an, Bacillus anthracis; B. ce, Bacillus cer-
+eus; C. tr, Chlamydia trachomatis; A. ae, Aquifex aeolicus; M. ge, Mycoplasma genitalium; M. pn, Mycoplasma pneumoniae;
+M. le, Mycobacterium leprae; M. tu, Mycobacterium tuberculosis; B. bu, Borrelia burgdorferi; Syne, Synechocystis PCC6803;
+S. pn, Streptococcus pneumoniae; S. py, Streptococcus pyogenes.
+Sugar Speci®city of Escherichia coli CMP Kinase
+1105
+decrease is about 5000-fold for D185A, and 500-
+fold for R181M).
+Concerning the nucleotide analogues ddCMP
+and AraCMP, the Km values do not vary much
+when the two mutants and the wild-type enzyme
+are compared. kcat drops for AraCMP. For ddCMP
+the low kcat value of the wild-type enzyme does
+not change much in the mutants.
+The S101A mutant: the collapse of dCMP
+phosphorylation is the first evidence of a catalytic
+role played by the insert
+Asp185, which is essential for the activity of
+E. coli CMPK, is H-bonded to Ser101 in both CMP-
+CMPK and dCMP-CMPK (molecule A) structures
+(Figure 2). Moreover, as indicated in Figure 4,
+Ser101 is the only strictly conserved amino acid
+residue in the homologous inserts from the 27
+different bacterial species identi®ed by BLAST.10
+We substituted this residue with an alanine and
+examined the catalytic properties of the modi®ed
+protein. The resulting variant has a tm close to that
+of the wild-type enzyme.
+The kinetic parameters of this variant differ from
+those of D185A and R181M mutants. Thus, the
+S101A variant phosphorylates CMP much like the
+wild-type enzyme, whereas the three other sub-
+strates show signi®cantly decreased reaction rates.
+The contrast is especially apparent when CMP and
+dCMP are compared: kcat/Km for CMP is four
+times lower than with the wild-type enzyme,
+whereas it is 200 times lower for dCMP. As was
+the case for the variant D185A, the decrease is
+mainly due to a decrease in kcat.
+Therefore, Ser101 is involved in dCMP phos-
+phorylation, which is a special feature of bacterial
+CMP kinases. The effect of the S101A substitution
+reported here is the ®rst published evidence of an
+active contribution of the NMPb-insert from bac-
+terial CMP kinases in catalysis.
+Discussion
+Contribution of the pentose in induced-fit
+movements of the enzyme
+In a previous paper we discussed the domain
+movements induced by CDP binding to E. coli
+CMPK.6 Structure comparison of the free and
+CDP-bound enzymes revealed a movement of the
+helical part of the NMPb-insert, in particular helix
+a5, towards the ligand (r.m.s.d. due to CDP bind-
+ing is 3.17 A
+Ê for a5). The same comparison for the
+free and CMP-bound enzymes indicates a similar,
+but more pronounced closing movement (r.m.s.d.
+for a5 is 4.04 A
+Ê ). If we also take into account
+molecules A and B of dCMP-CMPK, enzyme
+conformations from the most open to the most
+closed might be classi®ed, according to the position
+of a5, as: free E. coli CMPK > dCMP (molecule
+B) > CDP > dCMP (molecule A) > CMP. A similar
+classi®cation using the other hydroxyl jaw a8 is
+less obvious because its C-terminal part (Glu180-
+Arg188) is disordered in the absence of a bound
+NMP. Anyway, based on the N-terminal part from
+a8, which is ordered even in the free enzyme
+(Phe171-Lys179),
+with
+dCMP
+the
+molecule
+B
+occupies an intermediate position between the
+open structure of the free enzyme and the closed
+one induced by CMP, as is the case for the a5-
+based classi®cation.
+Around 40 different structures are known so far
+for various NMP kinases, and much attention was
+devoted to the interactions with the phosphate or
+the base moieties of their NMP substrates. The
+effect of these interactions on the movements of
+the NMP binding and LID domains of the enzymes
+was thoroughly investigated.11±13 However, the
+lack of structural data concerning a model enzyme
+able to phosphorylate various NMPs differing in
+their sugar moiety hindered discussion about the
+pentose contribution. The structures described here
+show that in the case of E. coli CMPK the so-called
+induced-®t movements seen in the presence of
+ligands are not only due to the base or phosphate
+moieties of the nucleotides, but also for a large
+part to the sugar moiety.
+Importance of the 30-OH from the pentose
+in catalysis
+Kinetic parameters indicate that as opposed to
+dCMP, ddCMP is a very poor substrate. This
+emphasises the importance of the 30-OH from the
+pentose, which is the only chemical difference
+between these two deoxynucleotides. The struc-
+tures with the natural substrates CMP and dCMP
+show two polar interactions with that hydroxyl
+group, which have no equivalent in other NMP
+kinases of known structure.
+The ®rst residue that is H-bonded to the 30-OH
+is Arg181 of a8. In contrast, neither AraCMP nor
+ddCMP is H-bonded to Arg181, in accordance
+with a poor Km. This arginine is highly conserved
+in all groups of NMP kinases, and it has been
+identi®ed
+as
+a
+residue
+involved
+in
+catalysis.
+Indeed, in the structures of UMP/CMP kinase
+from Dictyostelium discoideum, an H-bond connect-
+ing the equivalent Arg148 to the 30-OH of CMP
+was observed in the ``transition state-like'' complex
+with CMP, AlF3 and ADP (pdb code 3ukd), but
+not in the complex with CMP and ADP (pdb code
+2ukd), suggesting that this arginine stabilises the
+transition state.8 Except for the complexes with a
+transition state analogue, the direct hydrogen bond
+we observe between Arg181 from E. coli CMPK
+and
+the
+phosphate
+acceptor
+is
+unprecedented
+among NMP kinases. As in the phosphorylation
+reaction CMP-CMPK represents a step preceding
+the [CMP/g transferred phosphoryl group/ADP]
+transition state, this H bond between Arg181 and
+the 30-OH is probably productive for catalysis. In
+the AraCMP-CMPK structure, no hydrogen bond
+connects Arg181 to the 30-OH. However, in the
+1106
+Sugar Speci®city of Escherichia coli CMP Kinase
+case of the R181M variant the kcat for AraCMP is
+decreased
+by
+a
+factor
+of
+40.
+This
+could
+be
+explained by a contribution of Arg181 to the tran-
+sition state stabilisation.
+The second residue that is H-bonded to the 30-
+OH of CMP and dCMP is Asp185, again a residue
+of a8. This aspartate also makes a polar interaction
+with the 20-OH from CMP, AraCMP and CDP. The
+bidentate interaction observed for CMP between
+the
+side-chain
+of
+a
+unique
+residue
+and
+both
+hydroxyls
+from
+the
+ribose
+has
+never
+been
+described for NMP kinases. Moreover, among
+known
+structures
+of
+NMP
+kinases
+complexed
+solely with the phosphate acceptor, a direct protein
+interaction with the 30-OH of the sugar only occurs
+with thymidylate kinases like TMP kinase of yeast
+(pdb coordinates 1tmk14), that phosphorylate 20-
+deoxynucleotide substrates: the enzyme residue
+involved is also an aspartate, but one from the
+phosphate binding loop, that is an N-terminal
+domain unrelated to a8 in sequence alignments.
+The D185A variant shows a decrease of kcat for the
+natural substrates CMP or dCMP. This is also the
+case for the AraCMP analogue, a result that
+emphasizes the importance of the H-bond between
+the 20-OH and Asp185 for this nucleotide. In all
+three cases the decrease is even stronger than that
+observed for R181M. A decrease of kcat when
+Asp185
+is
+mutated
+was
+unexpected
+from
+the
+sequence of the E. coli enzyme, as this aspartate
+has no equivalent in other groups of NMP kinases.
+These results suggest that Asp185, conserved only
+in bacterial CMP kinases, also participates in cata-
+lysis, possibly through transition-state stabilisation.
+Such a stabilisation should involve the interaction
+of Asp185 with the 30-OH (see CMP and dCMP(A)
+in Figure 2), or for AraCMP with the 20-OH (see
+Figure 3) of the sugar. We propose that this
+favours a C30-endo conformation, allowing the 30-
+OH to interact with Arg181, a residue which can
+stabilise the a phosphate. An arginine-phosphate
+H-bond is observed in both crystal structures with
+CMP and dCMP (molecule A). With AraCMP, we
+suggest that Arg181 interacts with the a phosphate
+only in the presence of the transition state.
+On the whole, the importance for catalysis of the
+two residues that are H-bonded to the 30-OH,
+Arg181 and Asp185, makes it clear why the cataly-
+tic activity of the wild-type enzyme for ddCMP,
+that does not possess a 30-OH, is so low.
+Understanding the specificity for
+20-deoxynucleotide acceptors: the two
+conformations observed in crystals with dCMP
+With CMP, the two molecules of the crystal
+asymmetric unit are essentially identical. With
+dCMP, molecule A has a conformation similar to
+that with CMP. Compared to CMP, or to dCMP in
+molecule A, the dCMP in molecule B: (i) penetrates
+less deeply in the binding cleft, (ii) is less tightly
+enclosed by the jaws a5 and a8, (iii) lacks the direct
+polar interactions with Arg188, and the indirect
+one (through Asp185) with Ser101, these three resi-
+dues being highly conserved in bacterial CMP
+kinases, (iv) does not make any direct H-bond
+between the 30-OH from its pentose and Arg181 or
+Asp185 of the enzyme, and (v) has a different
+sugar conformation (C20-endo instead of C30-endo),
+so that it has a very different orientation of its 30-
+OH. We can hypothesise that the two alternative
+binding modes seen in molecule A (tight binding)
+and B (loose binding) coexist in solution. In that
+case, the conformer of molecule B, in which the 30-
+OH is not oriented as in CMP-CMPK, and there-
+fore does not bind the catalytically important resi-
+dues Asp185 and Arg181, would be a dead-end
+complex non-productive in catalysis. This hypoth-
+esis is in accordance with the observed kinetic par-
+ameters: the E. coli CMPK activity re¯ected by kcat
+remains identical for CMP and dCMP, whereas the
+Km of the enzyme for dCMP is about three times as
+high as that for CMP, indicating a weaker af®nity
+of the deoxynucleotide (Table 2).
+The role of Ser101 in dCMP phosphorylation
+Bacterial
+CMP
+kinases
+phosphorylate
+dCMP
+nearly as well as CMP. This is in contrast to
+eukaryotic UMP/CMP kinases: for instance, the
+kcat/Km ratio for dCMP of UMP/CMP kinase from
+D. discoideum is less than 1 % of that for CMP.
+Similarly, its kcat/Km for dUMP is around 1 % of
+that for UMP (A.M.G., unpublished data). Site-
+directed
+mutagenesis
+of
+Ser101
+resulted
+in
+a
+variant with a decreased kcat for dCMP. Thus this
+serine is important for deoxynucleotide catalysis,
+probably through binding of Asp185. This aspar-
+tate binds both the CMP and dCMP substrates.
+Moreover, crystal structures indicate that it pos-
+itions these substrates in a productive way for cata-
+lysis: all attempts to get crystal complexes of E. coli
+CMPK with the phosphate donor site occupied
+(either with ADP, or ATP analogues, or with tran-
+sition state analogues with ADP and aluminium
+¯uoride) failed; nevertheless, in the structures pre-
+sented here the phosphate from CMP or dCMP
+points towards a sulphate. In crystal structures of
+other
+NMP
+kinases
+also
+crystallised
+with
+ammonium sulphate, such a sulphate occupies a
+position corresponding to that of the b phosphate
+from the donor ATP.15 The favourable positioning
+of the bound substrates is also indicated by the
+superposition
+of
+CMP-CMPK
+or
+dCMP-CMPK
+with structures of other known NMP kinases in
+which both phosphate donor and acceptor sites are
+occupied.
+Thus,
+these
+E. coli
+CMPK
+modelled
+structures can be considered as structures of the
+enzyme with both the NMP phosphate acceptor
+and an equivalent of the b phosphate from ATP.
+Why does the substitution of Ser101 only slow
+down the phosphorylation of dCMP, and not that
+of CMP? The crystal structures help to understand
+this effect (Figure 2, left): with dCMP (molecule A),
+Ser101 interacts with the carboxylate of Asp185
+through an oxygen (labelled OD1 on the Figure)
+Sugar Speci®city of Escherichia coli CMP Kinase
+1107
+which is not held in position by any other H-bond,
+as in the CMP complex. We suggest that suppres-
+sing this interaction by substituting Ser101 with an
+alanine results in a more mobile side-chain of
+Asp185 when the variant binds dCMP. Moreover,
+the partial negative charge of OD1 is no more com-
+pensated through hydrogen bonding. In contrast,
+the effect of the substitution is minor with CMP as
+the 20-OH from the ribose is still H-bonded to
+OD1. As Ser101 is conserved in all NMP bind
+inserts of bacterial CMP kinases, its role in dCMP
+phosphorylation is probably a general feature of
+these enzymes.
+Possible implications for the design
+of antibiotics
+Despite the fact that CMPK is not essential for
+E. coli, a Gram negative bacterium, mutants devoid
+of CMP kinase activity have a decreased DNA syn-
+thesis rate and are cold-sensitive.3 However, CMP
+kinase appears essential for the Gram positive bac-
+terium Bacillus subtilis.16 This raises the possibility
+to design new antibiotics against CMP kinases
+from bacteria involved in human pathologies. The
+four
+crystal
+structures
+presented
+here
+give
+a
+detailed image of the interactions between the
+E. coli enzyme and phosphate acceptor substrates
+differing in their sugar moiety. Together with site-
+directed mutagenesis experiments, these structures
+also show the involvement of the NMPb-insert
+typical of bacterial CMP kinases in dCMP phos-
+phorylation, that is a main role of E. coli CMPK.
+This gives a wealth of information about enzyme
+zones speci®c to bacterial CMP kinases that could
+be targeted by inhibitors. Such inhibitors would
+avoid possible side effects related to nucleoside
+monophosphate kinases of the patients.
+Materials and Methods
+Chemicals
+CMP, dCMP and AraCMP were purchased from
+Sigma. ddCMP was kindly provided by Dr H.G. Ihlen-
+feldt from Roche Diagnostics, Penzberg (Germany).
+Site-directed mutagenesis
+Replacement by site-directed mutagenesis of Arg181
+with a methionine and of Ser101 and Asp185 with an
+alanine was performed on the single-stranded form of
+plasmid pHSP2102 in the ung dut E. coli strain RZ103217
+in the presence of the helper phage M13KO718 and using
+respectively the following oligonucleotides: 50-GTTA-
+CGGTCGCGGTCGTCCATTTCTTTGATCTC-30, 50-GAA
+TGCCGCGACTTGTGCCGCTGCATTCGCCACTTCCTG
+-30
+and
+50-TCGGTTACGAGCGCGGTCGTCGCG-30
+(modi®ed codons are in boldface). For overexpression,
+plasmids pLA221, pLA224 and pHL90-5a (harbouring
+the respective mutated cmk genes) were introduced into
+the E. coli strain BL21(DE3)/pDIA17.19
+Purification of the enzymes and activity assays
+The overproduced wild-type and modi®ed variants of
+E. coli CMPK were puri®ed as described previously,2
+and checked by mass spectrometry. Enzyme activity was
+determined at 30 C using a spectrophotometric assay.20
+For each mutation, both a single-point mutant and its
+histidine-tagged (His-tagged) equivalent were produced
+and puri®ed. The His-tagged variants were puri®ed by
+Nickel-nitriloacetic acid af®nity chromatography21 using
+the QIAexpress System. Their kinetic values were essen-
+tially the same as those of the non-tagged mutants, indi-
+cating that the His-tag did not interfere with catalysis.
+As the assays with His-tagged variants were not biased
+by
+the
+potential
+presence
+of
+wild-type
+copuri®ed
+enzyme, their results are used in Table 2.
+Crystallisation
+Crystals were grown at 20 C by the vapour diffusion
+method,
+using
+a
+6 ml
+hanging
+drop
+with
+0.4 M
+ammonium
+sulphate
+in
+a
+50 mM
+Tris-HCl
+buffer
+(pH 7.4). The wild-type enzyme used for crystallisation
+was not histidine-tagged. All crystals were obtained by
+cocrystallization of E. coli CMPK (5 mg/ml except for
+CMP-CMPK, in which case it was 10 mg/ml) with the
+NMP (20 mM for CMP, 10 mM for dCMP and ddCMP,
+40 mM for AraCMP). Concentrations of ammonium sul-
+phate in the pit were 1.7 M with CMP and AraCMP,
+1.1 M for dCMP, and 1.3 M for ddCMP. Crystals were
+allowed to grow for several weeks before data collection.
+Their
+typical
+size
+was
+around
+0.2 mm  0.2 mm 
+0.2 mm,
+except
+with
+dCMP
+(0.1 mm  0.05 mm 
+0.05 mm). All crystal systems are orthorhombic, space
+group P212121, with two molecules per asymmetric unit.
+Data collection
+All crystals were frozen at 100 K before data collec-
+tion, using paraf®n oil (Hampton Research) as cryopro-
+tectant.
+Data
+were
+collected
+on
+the
+European
+Synchrotron
+Radiation
+Facility
+(ESRF)
+in
+Grenoble,
+France, beamline BM-30A (FIP) for CMP-CMPK and
+dCMP-CMPK crystals, beamline ID14-2 for ddCMP-
+CMPK crystals, and on the synchrotron of LURE (Orsay,
+France), beamline DW32, for AraCMP-CMPK crystals.
+All data were processed and scaled with the DENZO
+and SCALEPACK programs.22 Information for all useful
+data collection and processing is given in the upper half
+of Table 1.
+Phasing
+The
+structures
+of
+CMP-,
+dCMP-,
+ddCMP-,
+and
+AraCMP-CMPK complexes were solved by molecular
+replacement at 3.5 A
+Ê
+resolution with AMoRe,23 using
+only the protein part of the CDP-CMPK model. In all
+cases a clear density immediately appeared for the NMP.
+Model building and structure refinement
+Models were built using the O program.24 CNS25 ver-
+sion 1.0 was used for re®nement, which was monitored
+using a free R factor.26 With the nucleotide analogues
+pseudo-merohedral
+twinning
+problems
+occurred:
+for
+ddCMP-CMPK, we collected data for several crystals
+until obtaining an untwinned one; for AraCMP-CMPK,
+all data sets we collected were twinned with very close a
+1108
+Sugar Speci®city of Escherichia coli CMP Kinase
+and b unit cell parameters, mimicking a tetragonal crys-
+tal system. Thus, re®nement could only be achieved
+using SHELX 97-227 on the ®rst steps, CNS being used
+for the ®nal steps with the re¯ection ®le corrected by
+SHELX.
+In all cases, simulated annealing was initially used, as
+well as non-crystallographic constraints. Then the two
+molecules of the asymmetric unit were re®ned as differ-
+ent models, using individual B factors. In the ®nal steps
+we placed water molecules in residual density above 2.5
+standard deviations. Solvent molecules with B factors
+re®ning higher than 60 A
+Ê 2 were discarded. For each
+model, side-chains from a few residues (zero to six per
+molecule) had no clear density and were modelled as
+alanines. A summary of the re®nement results together
+with model statistics is given in the lower half of Table 1.
+Superposition of different structures
+Models
+were
+superposed
+with
+the
+procedure
+implemented in O, and the relevant root mean square
+deviations for Ca atoms were calculated using CNS. As
+residues Arg70 to Val80 have a weak density in all struc-
+tures, the corresponding region was omitted in r.m.s.d.
+calculations.
+Accession numbers
+The pdb codes of the E. coli CMPK complexes are
+1kdo for the CMP-CMPK structure, 1kdp for dCMP-
+CMPK,
+1kdr
+for
+AraCMP-CMPK,
+and
+1kdt
+for
+ddCMP-CMPK.
+Acknowledgements
+We thank Richard Kahn, Michel Roth, Jean-Luc Ferrer
+(beamline BM-30A, FIP), and Andreas Bracher (beamline
+ID14-2) from the ESRF for attentive assistance. We are
+also grateful to Thierry Prange
+Â
+and Roger Fourme
+(LURE) for making the DW32 station available to us. We
+thank Joe
+Èl Janin for carefully reading the manuscript.
+This work was supported by grants from the Centre
+National de la Recherche Scienti®que (UPR 9063 and
+URA 2185), the Institut National de la Recherche Agro-
+nomique (UMR 206), and the Institut Pasteur.
+References
+1. Noda, L. (1973). Adenylate kinase. In The Enzymes
+(Boyer, P. D., ed.), 3rd edit., vol. 8, pp. 279-305,
+Academic Press, New York.
+2. Bucurenci, N., Sakamoto, H., Briozzo, P., Palibroda,
+N., Serina, L., Sarfati, R. S. et al. (1996). CMP kinase
+from Escherichia coli is structurally related to other
+nucleoside monophosphate kinases. J. Biol. Chem.
+271, 2856-2862.
+3. Fricke, J., Neuhard, J., Kelln, R. A. & Pedersen, S.
+(1995). The cmk gene encoding cytidine monophos-
+phate kinase is located in the rspA operon and is
+required for normal replication rate in Escherichia
+coli. J. Bacteriol. 177, 517-523.
+4. Vonrhein, C., Schlauderer, G. J. & Schulz, G. E.
+(1995). Movie of the structural changes during a cat-
+alytic cycle of nucleoside monophosphate kinases.
+Structure, 3, 483-490.
+5. Yan, H. & Tsai, M. D. (1999). Nucleoside monophos-
+phate kinases: structure, mechanism, and substrate
+speci®city. In Advances in Enzymology and Related
+Areas of Molecular Biology (Purich, D. L., ed.), vol.
+73A, pp. 103-134, Wiley, New York.
+6. Briozzo, P., Golinelli-Pimpaneau, B., Gilles, A. M.,
+Gaucher, J. F., Burlacu-Miron, S. & Sakamoto, H.,
+et al. (1998). Structures of Escherichia coli CMP kinase
+alone and in complex with CDP: a new fold of the
+nucleoside
+monophosphate
+binding
+domain
+and
+insights into cytosine nucleotide speci®city. Struc-
+ture, 6, 1517-1527.
+7. Egner, U., Tomasselli, A. G. & Schulz, G. E. (1987).
+Structure of the complex of yeast adenylate kinase
+with the inhibitor P1,P5-di(adenosine-50-) pentapho-
+sphate at 2.6 A
+Ê resolution. J. Mol. Biol. 195, 649-658.
+8. Schlichting, I. & Reinstein, J. (1997). Structures of
+active conformations of UMP kinase from Dictyo-
+stelium discoideum suggest phosphoryl transfer is
+associative. Biochemistry, 36, 9290-9296.
+9. Saenger, W. (1984). Structures and conformational
+properties of bases, furanose sugars, and phosphate
+groups. In Principles of Nucleic Acid Structure, pp. 55-
+104, Springer-Verlag, New York.
+10. Altshul, S. F., Gish, W., Myers, E. W. & Lipmann,
+D. J. (1990). Basic local alignment search tool. J. Mol.
+Biol. 215, 403-410.
+11. Mu
+Èller, C. W., Schlauderer, G. J., Reinstein, J. &
+Schulz, G. E. (1996). Adenylate kinase motions
+during catalysis: an energetic counterweight balan-
+cing substrate binding. Structure, 4, 147-156.
+12. Matte, A., Tarie, L. W. & Delbaere, T. J. (1998). How
+do kinases transfer phosphoryl groups? Structure, 6,
+413-419.
+13. Ostermann,
+N.,
+Schlichting,
+I.,
+Brundiers,
+R.,
+Konrad, M., Reinstein, J., Veit, T. et al. (2000).
+Insights into the phosphoryl transfer mechanism of
+human
+thymidylate
+kinase
+gained
+from
+crystal
+structures of enzyme complexes along the reaction
+coordinate. Structure, 8, 629-642.
+14. Lavie, A., Vetter, I. R., Konrad, M., Goody, R. S.,
+Reinstein, J. & Schlichting, I. (1997). Structure of
+thymidylate kinase reveals the cause behind the
+limiting step in AZT activation. Nature Struct. Biol.
+4, 601-604.
+15. Diederichs, K. & Schulz, G. E. (1991). The re®ned
+structure of the complex between adenylate kinase
+from beef heart mitochondrial matrix and its sub-
+strate AMP at 1.85 A
+Ê resolution. J. Mol. Biol. 217,
+541-549.
+16. Sorokin, A., Serror, P., Pujic, P., Azevedo, V. &
+Ehrlich, S. D. (1995). The Bacillus subtilis chromo-
+some region encoding homologues of the Escherichia
+coli mssA and rpsA gene products. Microbiology, 141,
+311-319.
+17. Kunkel,
+T.
+A.
+(1985).
+Rapid
+and
+ef®cient
+site-
+directed mutagenesis without phenotypic selection.
+Proc. Natl Acad. Sci. USA, 82, 488-492.
+18. Dotto, G. P. & Zinder, N. D. (1984). Reduction of
+the minimal sequence for initiation of DNA syn-
+thesis by qualitative or quantitative changes of an
+initiator protein. Nature, 311, 279-280.
+19. Munier, H., Gilles, A. M., Glaser, P., Krin, E.,
+Danchin, A., Sarfati, R. & Ba
+Ãrzu, O. (1991). Isolation
+and characterisation of catalytic and calmodulin-
+binding domains of Bordetella pertussis adenylate
+cyclase. Eur. J. Biochem. 196, 469-474.
+20. Blondin, C., Serina, L., Wiesmu
+Èller, L., Gilles, A. M.
+& Ba
+Ãrzu, O. (1994). Improved spectrophotometric
+Sugar Speci®city of Escherichia coli CMP Kinase
+1109
+assay of nucleoside monophosphate kinase activity
+using the pyruvate kinase/lactate dehydrogenase
+coupling system. Anal. Biochem. 220, 219-221.
+21. Crowe, J., Do
+Èbeli, H., Gentz, R., Hochulu, E., Stu
+Èber,
+D. & Henco, K. (1994). 6xHis-Ni-NTA chromatog-
+raphy
+as
+a
+superior
+technique
+in
+recombinant
+expression
+protein
+expression/puri®cation.
+In
+Methods in Molecular Biology (Harwood, A. J., ed.),
+vol. 31, pp. 371-387, Humana Press, Inc., Totawa.
+22. Otwinowski, Z. & Minor, W. (1993). DENZO, a Film
+Processing Program for Macromolecular Crystallography,
+Yale University Press, New Haven, CT.
+23. Navaza, J. (1994). AMoRe: an automated package
+for molecular replacement. Acta Crystallog. sect. A,
+50, 157-163.
+24. Jones, T. A., Zou, J. Y., Cowan, S. W. & Kjelgaard,
+M. (1991). Improved methods for the building of
+protein models in electron density maps and the
+location of errors in these models. Acta Crystallog.
+sect. A, 47, 110-119.
+25. Bru
+Ènger, A. T., Adams, P. D., Clore, G. M., DeLano,
+W. L., Gros, P., Grosse-Kunstleve, R. W. et al. (1998).
+Crystallography & NMR system: a new software
+suite for macromolecular structure determination.
+Acta crystallog. sect. D, 54, 905-921.
+26. Bru
+Ènger, A. T. (1992). Free R value: a novel statisti-
+cal quantity for assessing the accuracy of crystal
+structures. Nature, 355, 472-475.
+27. Sheldrick, G. M. & Schneider, T. R. (1997). SHELXL:
+high resolution re®nement. Methods Enzymol. 277,
+319-343.
+28. Nichols, A., Sharp, K. A. & Honig, B. (1991). Protein
+folding and association-insights from the interfacial
+and
+thermodynamic
+properties
+of
+hydrocarbons.
+Proteins: Struct. Funct. Genet. 11, 281-296.
+29. Kraulis, P. (1991). MOLSCRIPT: a program to pro-
+duce both detailed and schematic plots of protein
+structures. J. Appl. Crystallog. 24, 946-950.
+30. Merritt, E. A. & Bacon, D. (1997). Raster3D: photo-
+realistic molecular graphics. Methods Enzymol. 277,
+505-524.
+31. Esnouf,
+R.
+M.
+(1997).
+An
+extensively
+modi®ed
+version of MolScript that includes greatly enhanced
+colouring capabilities. J. Mol. Graph. 15, 132-134.
+32. Laskowski, R. A., MacArthur, M. W., Moss, D. S. &
+Thornton, J. M. (1993). PROCHECK: a program to
+check the stereochemical quality of protein struc-
+tures. J. Appl. Crystallog. 24, 946-950.
+Edited by K. Morikawa
+(Received 5 September 2001; received in revised form 19 November 2001; accepted 20 November 2001)
+1110
+Sugar Speci®city of Escherichia coli CMP Kinase

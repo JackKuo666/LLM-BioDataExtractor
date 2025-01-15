@@ -1,0 +1,8 @@
+Combine the above tables into one table.
+Please pay attention to the pipe format as shown in the example below. This format is for reference only regarding the structure; the content within is not the focus of this instruction.
+
+| Enzyme     | Organism          | Substrate   | Km  | Unit_Km | Kcat | Unit_Kcat | Kcat/Km | Unit_Kcat/Km | Commentary[Temp] | Commentary[pH] | Commentary[Mutant] | Commentary[Cosubstrate] |
+|------------|-------------------|-------------|-----|---------|------|-----------|---------|--------------|------------------|----------------|--------------------|-------------------------|
+| Enzyme1    | Bacillus subtilis | Substrate_A | 7.3 | mM      | 6.4  | s^-1      | 1.4 × 10^4   | M^-1s^-1     | 37°C             | 5.0            | WT                 | NADP^+                  |
+| Enzyme2    | Escherichia coli  | Substrate_B | 5.9 | mM      | 9.8  | s^-1      | 29000   | mM^-1min^-1  | 60°C             | 10.0           | Q176E             | NADPH                   |
+| Enzyme3    | Homo sapiens      | Substrate_C | 6.9 | mM      | 15.6 | s^-1      | 43000   | µM^-1s^-1    | 65°C             | 8.0            | T253S             | NAD^+                   |
