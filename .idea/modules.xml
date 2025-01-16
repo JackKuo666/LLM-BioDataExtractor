@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LLM-AEK-Pipeline.iml" filepath="$PROJECT_DIR$/.idea/LLM-AEK-Pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LLM-BioDataExtractor.iml" filepath="$PROJECT_DIR$/.idea/LLM-BioDataExtractor.iml" />
     </modules>
   </component>
 </project>

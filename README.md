@@ -22,8 +22,7 @@ pip install -r requirements.txt
 
 ### 1. PDF to Markdown
 
-Convert PDF files to Markdown format and handle documents exceeding 50 pages.
-
+Convert PDF files to Markdown format and process documents with no more than 50 (customizable, 50 by default) pages.
 ```python
 from extract_pipeline import pdf_2_md
 pdf_2_md()
