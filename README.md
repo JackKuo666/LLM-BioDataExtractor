@@ -129,7 +129,7 @@ evaluate_extracted_data()
 - **order**: Target column index, default is `-7`.
 - **have_dir**: Whether subdirectories exist, default is `0`.
 
-## analyzing extracted data 
+## Analyzing extracted data 
 # TODO
 
 ## Logging
