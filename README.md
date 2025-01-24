@@ -21,11 +21,6 @@ We offer a suite of online tools and a data portal designed to streamline access
 
 Visit the [Automated-Enzyme-Kinetics-Extractor](https://huggingface.co/spaces/jackkuo/Automated-Enzyme-Kinetics-Extractor) for more details and to start using these tools.
 
-You can also download the dataset from here:
-- **[Golden Benchmark for Enzyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Golden-Benchmark)**
-- **[Golden Benchmark for Ribozyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Ribozyme-Kinetics-Golden-Benchmark)**
-- **[LLM Enzyme Kinetics Archive (LLENKA)](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Archive-LLENKA)**
-
 
 ![pipeline diagram](figures/img.png)
 
@@ -37,6 +32,12 @@ You can also download the dataset from here:
 ![pipeline diagram](figures/img_3.png)
 
 ![pipeline diagram](figures/img_4.png)
+
+
+You can also download the dataset from here:
+- **[Golden Benchmark for Enzyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Golden-Benchmark)**
+- **[Golden Benchmark for Ribozyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Ribozyme-Kinetics-Golden-Benchmark)**
+- **[LLM Enzyme Kinetics Archive (LLENKA)](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Archive-LLENKA)**
 
 ## Installation
 
