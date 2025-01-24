@@ -14,12 +14,17 @@
 
 We offer a suite of online tools and a data portal designed to streamline access to and processing of biological data. Key features include:
 
-- **[Automated Enzyme Kinetics Extractor](https://huggingface.co/spaces/jackkuo/Automated-Enzyme-Kinetics-Extractor)**: A user-friendly tool for extracting enzyme kinetics data from scientific literature.
-- **[Golden Benchmark for Enzyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Golden-Benchmark)**: A simple interface for searching and browsing a collection of benchmark datasets, enabling the evaluation of enzyme kinetics extraction models.
-- **[Golden Benchmark for Ribozyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Ribozyme-Kinetics-Golden-Benchmark)**: A simple interface for searching and browsing a collection of benchmark datasets, enabling the evaluation of ribozyme kinetics extraction models.
-- **[LLM Enzyme Kinetics Archive (LLENKA)](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Archive-LLENKA)**: An intuitive platform for searching and browsing a comprehensive dataset sourced from 3,435 articles. LLENKA provides the research community with a structured, high-quality resource of enzyme kinetics data, advancing future research endeavors.
+- **Automated Enzyme Kinetics Extractor**: A user-friendly tool for extracting enzyme kinetics data from scientific literature.
+- **Golden Benchmark for Enzyme Kinetics**: A simple interface for searching and browsing a collection of benchmark datasets, enabling the evaluation of enzyme kinetics extraction models.
+- **Golden Benchmark for Ribozyme Kinetics**: A simple interface for searching and browsing a collection of benchmark datasets, enabling the evaluation of ribozyme kinetics extraction models.
+- **LLM Enzyme Kinetics Archive (LLENKA)**: An intuitive platform for searching and browsing a comprehensive dataset sourced from 3,435 articles. LLENKA provides the research community with a structured, high-quality resource of enzyme kinetics data, advancing future research endeavors.
 
 Visit the [Automated-Enzyme-Kinetics-Extractor](https://huggingface.co/spaces/jackkuo/Automated-Enzyme-Kinetics-Extractor) for more details and to start using these tools.
+
+You can also download the dataset from here:
+- **[Golden Benchmark for Enzyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Golden-Benchmark)**
+- **[Golden Benchmark for Ribozyme Kinetics](https://huggingface.co/datasets/jackkuo/LLM-Ribozyme-Kinetics-Golden-Benchmark)**
+- **[LLM Enzyme Kinetics Archive (LLENKA)](https://huggingface.co/datasets/jackkuo/LLM-Enzyme-Kinetics-Archive-LLENKA)**
 
 
 ![pipeline diagram](figures/img.png)
