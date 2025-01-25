@@ -4,5 +4,6 @@ openpyxl
 scipy
 statsmodels
 matplotlib
+matplotlib-venn
 seaborn
 jupyter
