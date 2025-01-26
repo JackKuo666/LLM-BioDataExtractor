@@ -16,16 +16,16 @@ In current directory, you can run the following command to analyze the extracted
 ```shell
 jupyter notebook
 ```
-This will open a web browser and display the Jupyter Notebook interface. From there, you can open the `analyze_result.ipynb` notebook and run the cells to analyze the extracted data.
+This will open a web browser and display the Jupyter Notebook interface. From there, you can open the `analyzing.ipynb` notebook and run the cells to analyze the extracted data.
 
 ## Directory Structure
 ``` 
 .
 ├── analyze_code         # Code for analyzing extracted data
-│   ├── analyze_result.ipynb  # Jupyter notebook for analyzing extracted data
+│   ├── analyzing.ipynb  # Jupyter notebook for analyzing extracted data
 │   ├── requirements.txt  # Required dependencies
 │   └── readme.md  # Project overview and usage instructions
 └── data                 # Data files used for analysis
-    ├── extracted_data.csv  # Extracted data from PDF files
-    └── ground_truth.csv  # Ground truth data for comparison
+    ├── ...
+    └── ...
 ```
