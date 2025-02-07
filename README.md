@@ -82,9 +82,15 @@ evaluate_extracted_data()
 ## Directory Structure
 ```
 .
-├── analyze_code         # Code for analyzing extracted data 
+├── analyze_code             # Code for analyzing extracted data
+│   ├── data                 # Data files used for analysis
+│   │   └── ...  
+│   │
+│   ├── analyzing.ipynb      # Jupyter notebook for analyzing extracted data
+│   ├── requirements.txt     # Required dependencies
+│   └── readme.md            # Project overview and usage instructions
 │
-├── data
+├── data                # Data files used for extraction and evaluation
 │   ├── pdf             # PDF files to be processed
 │   ├── md              # Converted Markdown files
 │   ├── txt             # Extracted text files
@@ -95,19 +101,19 @@ evaluate_extracted_data()
 │   ├── p_3_2_0806.txt  # Prompt for data extraction
 │   └── p_2_0826.txt    # Prompt for merge data
 │
-├── s1_pdf_2_md         # PDF to Markdown conversion pipeline
-│   ├── ocr_mathpix.py  # High-performance PDF to Markdown conversion
-│   ├── ocr_pymupdf.py  # Free but less effective PDF to text conversion
-│   ├── readme.md       # Usage instructions
-│   └── readme_pymupdf.md  # Instructions for text conversion logic
+├── s1_pdf_2_md             # PDF to Markdown conversion pipeline
+│   ├── ocr_mathpix.py      # High-performance PDF to Markdown conversion
+│   ├── ocr_pymupdf.py      # Free but less effective PDF to text conversion
+│   ├── readme.md           # Usage instructions
+│   └── readme_pymupdf.md   # Instructions for text conversion logic
 │
-├── s2_LLM_extract_data # LLM data extraction pipeline
+├── s2_LLM_extract_data         # LLM data extraction pipeline
 │   ├── LLM_data_extraction.py  # Main logic for data extraction
 │   └── readme.md               # Usage instructions
 │
-├── s3_evaluate_extracted_data # Evaluation pipeline
+├── s3_evaluate_extracted_data      # Evaluation pipeline
 │   ├── evaluate_extracted_data.py  # Main logic for evaluation
-│   └── readme.md                  # Usage instructions
+│   └── readme.md                   # Usage instructions
 │
 ├── extract_pipeline.py  # Main processing logic
 ├── readme.md            # Project overview

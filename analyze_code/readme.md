@@ -21,11 +21,10 @@ This will open a web browser and display the Jupyter Notebook interface. From th
 ## Directory Structure
 ``` 
 .
-├── analyze_code         # Code for analyzing extracted data
-│   ├── analyzing.ipynb  # Jupyter notebook for analyzing extracted data
-│   ├── requirements.txt  # Required dependencies
-│   └── readme.md  # Project overview and usage instructions
-└── data                 # Data files used for analysis
-    ├── ...
-    └── ...
+├── data                 # Data files used for analysis
+│   └── ...  
+│
+├── analyzing.ipynb      # Jupyter notebook for analyzing extracted data
+├── requirements.txt     # Required dependencies
+└── readme.md            # Project overview and usage instructions
 ```
