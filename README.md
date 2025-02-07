@@ -144,7 +144,9 @@ evaluate_extracted_data()
 - **have_dir**: Whether subdirectories exist, default is `0`.
 
 ## Analyzing extracted data 
-# TODO
+
+This section provides a detailed guide on how to use the `analyze_code` directory. The directory contains a Jupyter notebook, `analyzing.ipynb`, which can be used to analyze the extracted data. The notebook includes code snippets for loading and analyzing the extracted data, as well as visualizing the results.
+
 
 ## Logging
 
