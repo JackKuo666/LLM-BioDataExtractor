@@ -8,7 +8,15 @@
 2. **LLM Data Extraction (LLM_extract_data)**: Extracts key biochemical data from Markdown files using LLMs.
 3. **Evaluate Extracted Data (evaluate_extracted_data)**: Compares the extracted data with ground truth to assess accuracy.
 
-![pipeline diagram](figures/image.png)
+- Fig. 1 Schematic of our LLM-based agentic workflow for enzyme kinetic data extraction.
+
+
+![pipeline diagram](figures/img_5.png)
+
+- Table 1. Overall performance of various models examined on the annotated dataset of 156 protein enzyme papers. 
+
+
+- ![pipeline diagram](figures/img_6.png)
 
 ## Online tools and Data Portal
 
