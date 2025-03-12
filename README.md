@@ -175,9 +175,19 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 ## Citation
 Please cite this project if you find it useful in your research:
 ```bibtex
-@misc{LLM-BioDataExtractor,
-preprintation={arXiv:xxxx},
+@article {Jiang2025.03.03.641178,
+	author = {Jiang, Jinling and Hu, Jie and Xie, Siwei and Guo, Menghao and Dong, Yuhang and Fu, Shuai and Jiang, Xianyue and Yue, Zhenlei and Shi, Junchao and Zhang, Xiaoyu and Song, Minghui and Chen, Guangyong and Lu, Hua and Wu, Xindong and Guo, Pei and Han, Da and Sun, Zeyi and Qiu, Jiezhong},
+	title = {Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature},
+	elocation-id = {2025.03.03.641178},
+	year = {2025},
+	doi = {10.1101/2025.03.03.641178},
+	publisher = {Cold Spring Harbor Laboratory},
+	abstract = {The extraction of molecular annotations from scientific literature is critical for advancing data-driven research. However, traditional methods, which primarily rely on human curation, are labor-intensive and error-prone. Here, we present an LLM-based agentic workflow that enables automatic and efficient data extraction from literature with high accuracy. As a demonstration, our workflow successfully delivers a dataset containing over 91,000 enzyme kinetics entries from around 3,500 papers. It achieves an average F1 score above 0.9 on expert-annotated subsets of protein enzymes and can be extended to the ribozyme domain in fewer than 3 days at less than $90. This method opens up new avenues for accelerating the pace of scientific research.Competing Interest StatementThe authors have declared no competing interest.},
+	URL = {https://www.biorxiv.org/content/early/2025/03/11/2025.03.03.641178},
+	eprint = {https://www.biorxiv.org/content/early/2025/03/11/2025.03.03.641178.full.pdf},
+	journal = {bioRxiv}
 }
+
 ```
 ---
 
