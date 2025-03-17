@@ -13,18 +13,9 @@ pip install -r requirements.txt
 ## Usage
 To use this script, follow these steps:
 1. Ensure that the extracted data is in the correct format and stored in the `response_dir` directory.
-2. Run the `evaluate_extracted_data.py` script to compare the extracted data with the ground truth data.
+2. Run the `compare_value.py` script to compare the extracted data with the ground truth data of protein enzyme.
+3. Run the `compare_value_bibozyme.py` script to compare the extracted data with the ground truth data of Ribozyme.
 
 ```shell
-python evaluate_extracted_data.py
+python compare_value.py
 ```
-## Parameters
-The `evaluate_extracted_data.py` script takes the following parameters:
-- `response_dir`: The directory containing the extracted data.
-- `ground_truth_dir`: The directory containing the ground truth data.
-- `output_dir`: The directory to save the evaluation results.
-- `seq`: The delimiter used in the extracted data.
-- `order`: The target column index in the extracted data.
-- `have_dir`: Whether subdirectories exist in the extracted data.
-- `prompt_dir`: The directory containing the prompt files.
-- `prompt_name`: The name of the prompt file.
