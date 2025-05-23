@@ -1,0 +1,18 @@
+| Enzyme | Organism | Substrate | Km | Unit_Km | Kcat | Unit_Kcat | Kcat/Km | Unit_Kcat/Km | Commentary[Temp] | Commentary[pH] | Commentary[Mutant] | Commentary[Cosubstrate] |
+|--------|----------|-----------|----|---------|------|-----------|---------|--------------|------------------|----------------|--------------------|-------------------------|
+| Wild-type | Escherichia coli | CMP | 0.035 | mM | 103 | s^-1 | 2940 | s^-1 mM^-1 | 30°C | 7.4 | WT | ATP (1 mM) |
+| Wild-type | Escherichia coli | dCMP | 0.094 | mM | 109 | s^-1 | 1160 | s^-1 mM^-1 | 30°C | 7.4 | WT | ATP (1 mM) |
+| Wild-type | Escherichia coli | AraCMP | 0.53 | mM | 56 | s^-1 | 105 | s^-1 mM^-1 | 30°C | 7.4 | WT | ATP (1 mM) |
+| Wild-type | Escherichia coli | ddCMP | 0.46 | mM | 0.047 | s^-1 | 0.102 | s^-1 mM^-1 | 30°C | 7.4 | WT | ATP (1 mM) |
+| D185A | Escherichia coli | CMP | 0.47 | mM | 0.26 | s^-1 | 0.54 | s^-1 mM^-1 | 30°C | 7.4 | D185A | ATP (1 mM) |
+| D185A | Escherichia coli | dCMP | 0.24 | mM | 0.071 | s^-1 | 0.30 | s^-1 mM^-1 | 30°C | 7.4 | D185A | ATP (1 mM) |
+| D185A | Escherichia coli | AraCMP | 1.0 | mM | 0.085 | s^-1 | 0.083 | s^-1 mM^-1 | 30°C | 7.4 | D185A | ATP (1 mM) |
+| D185A | Escherichia coli | ddCMP | 0.15 | mM | 0.0083 | s^-1 | 0.056 | s^-1 mM^-1 | 30°C | 7.4 | D185A | ATP (1 mM) |
+| R181M | Escherichia coli | CMP | 0.19 | mM | 1.38 | s^-1 | 7.4 | s^-1 mM^-1 | 30°C | 7.4 | R181M | ATP (1 mM) |
+| R181M | Escherichia coli | dCMP | 0.24 | mM | 0.45 | s^-1 | 1.9 | s^-1 mM^-1 | 30°C | 7.4 | R181M | ATP (1 mM) |
+| R181M | Escherichia coli | AraCMP | 0.79 | mM | 1.36 | s^-1 | 1.7 | s^-1 mM^-1 | 30°C | 7.4 | R181M | ATP (1 mM) |
+| R181M | Escherichia coli | ddCMP | 0.54 | mM | 0.12 | s^-1 | 0.22 | s^-1 mM^-1 | 30°C | 7.4 | R181M | ATP (1 mM) |
+| S101A | Escherichia coli | CMP | 0.08 | mM | 56 | s^-1 | 697 | s^-1 mM^-1 | 30°C | 7.4 | S101A | ATP (1 mM) |
+| S101A | Escherichia coli | dCMP | 0.19 | mM | 1.2 | s^-1 | 6.1 | s^-1 mM^-1 | 30°C | 7.4 | S101A | ATP (1 mM) |
+| S101A | Escherichia coli | AraCMP | 0.47 | mM | 3.6 | s^-1 | 7.5 | s^-1 mM^-1 | 30°C | 7.4 | S101A | ATP (1 mM) |
+| S101A | Escherichia coli | ddCMP | 0.65 | mM | 0.0033 | s^-1 | 0.0059 | s^-1 mM^-1 | 30°C | 7.4 | S101A | ATP (1 mM) |

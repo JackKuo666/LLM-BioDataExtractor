@@ -1,4 +1,4 @@
-# LLM Data Extraction Pipeline
+# 1.LLM Data Extraction Pipeline
 
 ## Overview
 `LLM_data_extraction.py` is a Python script designed for extracting information from scientific literature. The script leverages OpenAI's GPT models to process and extract key information from text, while also removing the references section from the literature.
@@ -75,3 +75,16 @@ Extracts information from file content using a language model.
 ## Notes
 - Ensure the security of your API key; do not hardcode it in public repositories.
 - Adjust `temperature` and `max_tokens` as needed to achieve the best results.
+
+# 2.LLM Response Aggregation Pipeline
+## Overview
+`LLM_response_aggregate.py` is a Python script designed for aggregating responses from 4 language model responses.
+
+## Usage
+Place Markdown files of scientific literature in the `data/md/` directory, and place 4 model responses in the `data/response/` directory. The script will process these responses and aggregate them into a single response.
+
+```bash 
+python LLM_response_aggregation.py
+```
+
+

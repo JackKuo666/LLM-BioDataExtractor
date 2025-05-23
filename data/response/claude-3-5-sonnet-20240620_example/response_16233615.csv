@@ -1,0 +1,27 @@
+Here is the extracted enzyme data from the scientific article, formatted as requested:
+
+| Enzyme | Organism | Substrate | Km | Unit_Km | Kcat | Unit_Kcat | Kcat/Km | Unit_Kcat/Km | Commentary[Temp] | Commentary[pH] | Commentary[Mutant] | Commentary[Cosubstrate] |
+|--------|----------|-----------|----|---------|----- |-----------|---------|--------------|-------------------|-----------------|---------------------|--------------------------|
+| apADH | Aeropyrum pernix K1 | Ethanol | 13.7 | mM | 0.23 | s^-1 | 0.017 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 1-Propanol | 1.03 | mM | 0.26 | s^-1 | 0.25 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 1-Butanol | 0.596 | mM | 0.41 | s^-1 | 0.69 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 1-Pentanol | 0.396 | mM | 0.45 | s^-1 | 1.1 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 1-Hexanol | 0.147 | mM | 0.37 | s^-1 | 2.5 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 2-Propanol | 2.44 | mM | 0.24 | s^-1 | 0.097 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 2-Butanol | 1.05 | mM | 0.48 | s^-1 | 0.46 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 2-Pentanol | 0.752 | mM | 0.60 | s^-1 | 0.79 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | Cyclohexanol | 0.703 | mM | 0.52 | s^-1 | 0.73 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | Benzylalcohol | 5.43 | mM | 1.02 | s^-1 | 0.189 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | 4-Methoxybenzylalcohol | 1.13 | mM | 0.60 | s^-1 | 0.53 | s^-1mM^-1 | 60°C | 8.0 | | NAD^+ |
+| apADH | Aeropyrum pernix K1 | NAD^+ | 0.0010 | mM | 0.40 | s^-1 | 380 | s^-1mM^-1 | 60°C | 8.0 | | 2-Pentanol |
+| apADH | Aeropyrum pernix K1 | 2-Pentanone | 5.15 | mM | 0.77 | s^-1 | 0.15 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | 2-Hexanone | 5.01 | mM | 1.08 | s^-1 | 0.22 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | 2-Heptanone | 1.16 | mM | 0.73 | s^-1 | 0.62 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | 2-Octanone | 0.286 | mM | 0.74 | s^-1 | 2.6 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | 2-Nonanone | 0.215 | mM | 0.71 | s^-1 | 3.3 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | 2-Decanone | 0.147 | mM | 0.40 | s^-1 | 2.7 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | t-Butyl acetoacetate | 0.694 | mM | 0.072 | s^-1 | 0.10 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | Cyclohexanone | 1.39 | mM | 1.27 | s^-1 | 0.91 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | 4-Methoxyphenyl acetone | 0.131 | mM | 0.071 | s^-1 | 0.54 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | Benzaldehyde | 0.333 | mM | 1.22 | s^-1 | 3.66 | s^-1mM^-1 | 60°C | 8.0 | | NADH |
+| apADH | Aeropyrum pernix K1 | NADH | 0.00040 | mM | 0.41 | s^-1 | 1000 | s^-1mM^-1 | 60°C | 8.0 | | 2-Pentanone |

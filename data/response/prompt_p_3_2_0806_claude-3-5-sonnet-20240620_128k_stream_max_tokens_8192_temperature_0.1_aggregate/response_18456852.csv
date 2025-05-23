@@ -1,0 +1,32 @@
+I'll review the responses from the four LLMs and create a final table based on the information provided in the scientific article. I'll focus on accuracy and consistency, following the guidelines in the LLM extraction prompt.
+
+Here's the final consolidated table:
+
+| Enzyme | Organism | Substrate | Km | Unit_Km | Kcat | Unit_Kcat | Kcat/Km | Unit_Kcat/Km | Commentary[Temp] | Commentary[pH] | Commentary[Mutant] | Commentary[Cosubstrate] |
+|--------|----------|-----------|----|---------|----- |-----------|---------|--------------|-------------------|-----------------|---------------------|-------------------------|
+| ADH_Tt | Thermus thermophilus | 4-Methoxybenzyl alcohol | 61.0 | mM | 1.6 | s^-1 | 0.026 | s^-1mM^-1 | 65°C | 10.5 | WT | NAD^+ |
+| ADH_Tt | Thermus thermophilus | (S)-(-)-1-Phenylethanol | 18.1 | mM | 1.1 | s^-1 | 0.06 | s^-1mM^-1 | 65°C | 10.5 | WT | NAD^+ |
+| ADH_Tt | Thermus thermophilus | 3-Methoxybenzaldehyde | 4.40 | mM | 3.1 | s^-1 | 0.70 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | Ethyl benzoylformate | 1.0 | mM | 50.1 | s^-1 | 50.1 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | Methyl benzoylformate | 2.7 | mM | 38.1 | s^-1 | 14.1 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | 2,2,2-Trifluoroacetophenone | 11.2 | mM | 25.5 | s^-1 | 2.3 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | 1-Phenyl-1,2-propanedione | 5.90 | mM | 17.1 | s^-1 | 2.9 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | 1-Indanone | 27.6 | mM | 8.30 | s^-1 | 0.30 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | (±)-1-Indanol | 5.1 | mM | 45.7 | s^-1 | 8.9 | s^-1mM^-1 | 65°C | 10.5 | WT | NAD^+ |
+| ADH_Tt | Thermus thermophilus | (S)-(+)-1-Indanol | 4.2 | mM | 61.4 | s^-1 | 14.6 | s^-1mM^-1 | 65°C | 10.5 | WT | NAD^+ |
+| ADH_Tt | Thermus thermophilus | α-Tetralone | 5.8 | mM | 7.70 | s^-1 | 1.3 | s^-1mM^-1 | 65°C | 6.0 | WT | NADH |
+| ADH_Tt | Thermus thermophilus | (±)-α-Tetralol | 5.3 | mM | 48.1 | s^-1 | 9.1 | s^-1mM^-1 | 65°C | 10.5 | WT | NAD^+ |
+| ADH_Tt | Thermus thermophilus | (S)-(+)-α-Tetralol | 4.2 | mM | 57.0 | s^-1 | 13.6 | s^-1mM^-1 | 65°C | 10.5 | WT | NAD^+ |
+| ADH_Tt | Thermus thermophilus | NAD^+ | 0.24 | mM | 0.84 | s^-1 | 3.50 | s^-1mM^-1 | 65°C | 10.5 | WT | (S)-(-)-1-Phenylethanol |
+| ADH_Tt | Thermus thermophilus | NADH | 0.035 | mM | 52.4 | s^-1 | 1490 | s^-1mM^-1 | 65°C | 6.0 | WT | Ethyl benzoylformate |
+
+Notes on the consolidation:
+1. All data is from the ADH_Tt enzyme from Thermus thermophilus.
+2. The temperature for all measurements is 65°C, as stated in the article.
+3. The pH values are 6.0 for reduction reactions (NADH as cosubstrate) and 10.5 for oxidation reactions (NAD^+ as cosubstrate), based on the pH optima mentioned in the article.
+4. All enzymes are considered wild type (WT) as no mutations were mentioned.
+5. The cosubstrates are listed as NAD^+ for oxidation reactions and NADH for reduction reactions, except for the last two rows where the actual substrates are listed.
+6. The units are consistently reported as in the original article.
+7. MBF is expanded to Methyl benzoylformate for clarity.
+
+This table represents the most accurate compilation of the enzyme kinetics data from the provided scientific article, following the guidelines in the LLM extraction prompt.
