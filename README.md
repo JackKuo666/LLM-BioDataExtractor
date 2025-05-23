@@ -80,7 +80,7 @@ LLM_extract_data()
 
 #### [Optional] LLM Response Aggregation Pipeline
 
-`LLM_response_aggregate.py` is a Python script designed for aggregating responses from 4 language model responses.
+`s2_LLM_data_extract/LLM_response_aggregate.py` is a Python script designed for aggregating responses from 4 language model responses.
 
 ##### Usage
 Place Markdown files of scientific literature in the `data/md/` directory, and place 4 model responses in the `data/response/` directory. The script will process these responses and aggregate them into a single response.
