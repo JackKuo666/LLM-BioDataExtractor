@@ -86,7 +86,7 @@ LLM_extract_data()
 Place Markdown files of scientific literature in the `data/md/` directory, and place 4 model responses in the `data/response/` directory. The script will process these responses and aggregate them into a single response.
 
 ```bash 
-python LLM_response_aggregation.py
+python LLM_response_aggregate.py
 ```
 
 
